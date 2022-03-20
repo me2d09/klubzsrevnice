@@ -7,7 +7,7 @@ quote: Klub rodičů je z mého pohledu velmi zajímavý a potřebný partner š
 quotecite: Tomáš Řezníček
 tags: rozhovor
 ---
-Vyzpovídali jsme našeho pana ředitele Mgr. Tomáše Řezníčka abychom zjistili, co si o znovuobnovení Klubu rodičů myslí.
+Vyzpovídali jsme našeho pana ředitele Mgr. Tomáše Řezníčka, abychom zjistili jeho názor na obnovení Klubu rodičů a přátel řevnické školy.
 
 <!--vice-->
 
