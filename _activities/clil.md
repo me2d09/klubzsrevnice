@@ -23,6 +23,7 @@ Vedle Johna se tedy na chodbách školy můžete potkat také s energickým Fili
 
 *učitelka 5. třídy*
 
+
 "S CLILEM mám zkušenost již druhým rokem jako učitelka, předtím i z pozice asistentky u nejmladších dětí. Děti se hravou formou seznamují s angličtinou - hrají hry, zpívají písničky, využíváme interaktivní tabuli na obrázky a mapy. Největším přínosem je pro děti možnost naslouchat angličtině a načerpat správnou výslovnost. Dále i to, že je vše děláno trochu jinou, hravou formou - oproti standardním hodinám. Co se týče spolupráce s rodilými mluvčími, je z mého pohledu úplně bezvadná. Vyjdeme si navzájem vstříc - buď přijdu s nápadem, co by se dalo v hodině dělat, já a John nebo Filip to téma rozvinou nebo to funguje i  opačně. Rozhodně děti nemusí mít strach, když někdo nerozumí, pomůže mu buď spolužák, učitel nebo i sám anglicky mluvící pedagog."
 
 *Květa Soukupová, učitelka 5.C*
