@@ -1,0 +1,89 @@
+---
+layout: page
+bread: Aktivity
+breadlink: /aktivity
+---
+{% assign parts = content | split: "<!--vice-->" %}
+<div class="page">
+   <div class="container">
+      <div class="row">
+         <!-- page with sidebar starts -->
+         <div class="col-lg-9 page-with-sidebar">
+            <div class="col-md-12">
+               <h2>{% if page.longtitle %}{{ page.longtitle }}{% else %}{{ page.title }}{% endif %}</h2>
+               <!-- Image -->
+               <p class="h7">{{ page.subtitle }}</p>
+               <p>
+                  {{ parts[0] }}
+               </p>
+               <!-- row -->
+               <div class="row">
+                  {% if page.images %}
+                  <div class="col-md-5">
+                     <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
+                        {% for i in page.images %}
+                        <img src="/img/aktivity/{{ i }}" class="img-fluid rounded-circle" alt="">
+                        {% endfor %}
+                     </div>
+                     <!-- /col-md- -->
+                  </div>
+                  <!-- /col-md -->
+                  <div class="col-md-7">
+                  {% else %}
+                  <div class="col-md-12">
+                  {% endif %}
+                     {{ parts[1] }}
+                  </div>
+                  <!-- /col-md -->
+                  {% if page.faq %}
+                  <div class="col-md-12 mt-5">
+                     <div class="accordion mt-3">
+                        {% for f in page.faq %}
+                        <!-- collapsible accordion 1 -->
+                        <div class="card">
+                           <div class="card-header">
+                              <a class="collapsed card-link" data-toggle="collapse" href="#collapse{{ forloop.index }}">
+                              {{ f.nadpis }}
+                              </a>
+                           </div>
+                           <!-- /card-header -->
+                           <div id="collapse{{ forloop.index }}" class="collapse" data-parent=".accordion">
+                              <div class="card-body">
+                                 <p>{{ f.text }}</p>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- /card -->
+                        {% endfor %}
+                     </div>
+                     <!-- /accordion -->
+                  </div>
+                  <!-- /col-md-12-->
+                  {% endif %}
+                  <a class="custom-link float-right mt-5" href="/aktivity">zpět na přehled aktivit</a>
+               </div>
+               <!-- /row -->
+            </div>
+            <!-- /col-md-12 -->
+         </div>
+         <!-- /col-lg-9 -->
+         <!-- ==== Sidebar ==== -->
+         <div id="sidebar" class="col-lg-3 h-50 sticky-top">
+            <!--widget area-->
+            <div class="widget-area notepad">
+               <h5 class="sidebar-header">Naše aktivity</h5>
+               <div class="list-group">
+                  {% for a in site.activities %}
+                  <a href="{{ a.url }}" class="list-group-item list-group-item-action{% if a == page %} active{% endif %}">{{ a.shorttitle }}</a>
+                  {% endfor %}
+               </div>
+               <!-- /list-group -->
+            </div>
+            <!-- /widget-area -->
+         </div>
+         <!-- /sidebar -->
+      </div>
+      <!-- /row-->
+   </div>
+   <!-- /container-->
+</div>

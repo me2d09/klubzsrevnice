@@ -74,9 +74,9 @@
                         Aktivity
                         </a>
                         <div class="dropdown-menu" aria-labelledby="services-dropdown">
-                            <a class="dropdown-item" href="/clil">CLIL</a>
-                            <a class="dropdown-item" href="/robotika">Robotika je hra</a>
-                            <a class="dropdown-item" href="/podpora">Podpora dětí</a>
+                            {% for a in site.activities %}
+                            <a class="dropdown-item" href="{{ a.url }}">{{ a.shorttitle }}</a>
+                            {% endfor %}
                         </div>
                     </li>
                     <!-- menu item -->
