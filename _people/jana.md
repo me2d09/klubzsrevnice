@@ -1,7 +1,7 @@
 ---
 jmeno: Jana Chárová
 position: 
-photo: 
+photo: jana.jpg
 mail: 
 fb: 
 twitter: 
