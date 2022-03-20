@@ -13,6 +13,10 @@ faq:
     text: Stavíme primárně ze stavebnic fischertechnik, programujeme Microbity, občas hrajeme Minecraft Education.
   - nadpis: Jak často kroužek probíhá a kolik stojí?
     text: Kroužky jsou každé pondělí v budově druhého stupně Řevnické školy. Kroužek stojí 1800 Kč na půl roku, finance jsou využité na nákup vybavení.
+people:
+  - jitka
+  - pavel
+  - petr
 ---
 V roce 2018 jsme ve spolupráci s GRAMOFONDEM, nadačním fondem GZ Media a ZŠ Řevnice začali pořádat technické kroužky pod názvem Robotika je hra. Děti se pod vedením dvou nadšených lektorů z řad rodičů seznamují se základy fyziky, mechaniky, robotiky a programování. 
 
