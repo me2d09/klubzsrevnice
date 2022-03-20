@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Klub rodičů velmi vítám"
+title:  "Klub rodičů a přátel školy velmi vítám"
 autor: jitka
 image: reznicek.jpg
 quote: Klub rodičů je z mého pohledu velmi zajímavý a potřebný partner školy a já jeho oživení vítám.
