@@ -3206,6 +3206,7 @@ ul.checkmark li:before {
 	.ornament-bubbles:after,
 	.ornament-rainbow:after {
 		position: relative;
+		margin-left: 0px;
 	}
 	#intro-cards .card-flip {
 		margin-top: 20px;
@@ -3310,10 +3311,10 @@ ul.checkmark li:before {
 		border: 0px;
 	}
 	.navbar-collapse.show {
-		max-height: 400px;
+		max-height: 420px;
 	}
 	.navbar-collapse {
-		max-height: 400px;
+		max-height: 420px;
 	}
 	.navbar-collapse::-webkit-scrollbar {
 		width: 10px;
@@ -3562,7 +3563,7 @@ ul.checkmark li:before {
 	}
 	.navbar-collapse.show,
 	.navbar-collapse {
-		max-height: 300px !important;
+		max-height: 420px !important;
 	}
 	.input-group .form-control,
 	.input-group-btn {
