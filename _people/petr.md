@@ -15,4 +15,4 @@ qualification:
 **Fyzik.** Na Karlově Univerzitě používám neutrony ke studiu magnetických krystalů.
 **Bastlíř.** Rád tvořím, kóduji a vysvětluji.
 
-Děti jsou taky lidi; chci aby je škola bavila a chodili tam, protože chtějí.
+Děti jsou taky lidi; chci aby je škola bavila a chodily tam, protože chtějí.
