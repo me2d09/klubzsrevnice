@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Klub rodičů řevnické školy znovu ožívá"
+title:  "V řevnické škole znovu ožívá klub rodičů"
 autor: jitka
 image: klub.jpg
 tags: klub
