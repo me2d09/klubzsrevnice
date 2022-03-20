@@ -13,6 +13,8 @@ faq:
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas hrajeme Minecraft Education.
   - nadpis: Jak často kroužek probíhá a kolik stojí?
     text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 1800 Kč na půl roku, získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem.
+  - nadpis: Jak přihlásit dítě do kroužku?
+    text: Kontaktujte jednoho z lektorů a zjistěte jestli je volné místo. Časem se chystají webové stránky kroužku, kde budou zveřejněny podrobnosti.
 people:
   - jitka
   - pavel
