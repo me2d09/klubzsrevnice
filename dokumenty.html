@@ -20,7 +20,7 @@ title: Dokumenty
             {% for f in site.data.files %}
             <tr>
                <td>{{ f.popis }}</td>
-               <td><a href="/assets/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
+               <td><a href="/docs/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
                <td>{{ f.zmena }}</td>
             </tr>
             {% endfor %}
@@ -55,7 +55,7 @@ title: Dokumenty
                         {% for f in site.data.zapisy %}
                         <tr>
                            <td>{{ f.datum }}</td>
-                           <td><a href="/assets/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
+                           <td><a href="/docs/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
                            <td>{{ f.zapsal }}</td>
                         </tr>
                         {% endfor %}
@@ -85,7 +85,7 @@ title: Dokumenty
                         {% for f in site.data.zpravy %}
                         <tr>
                            <td>{{ f.rok }}</td>
-                           <td><a href="/assets/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
+                           <td><a href="/docs/{{ f.soubor }}"><i class="fas fa-file-pdf"></i> {{ f.soubor }}</a></td>
                         </tr>
                         {% endfor %}
                      </tbody>
