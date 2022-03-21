@@ -15,7 +15,7 @@ reference:
       Děti přítomnost lektora vítají, přijímají. Rozhodně se ničeho neobávají ani nezažívají stres, že nerozumí všemu, co lektor říká. Za největší přínos této metody považuji každodenní možnost žáků přicházet do styku s anglickým jazykem v nejrůznějších situacích a předmětech. Spolupráce s anglickým pedagogem je výborná.
     job: učitelka 5. třídy
   - text: |
-      S CLILEM mám zkušenost již druhým rokem jako učitelka, předtím i z pozice asistentky u nejmladších dětí. Děti se hravou formou seznamují s angličtinou - hrají hry, zpívají písničky, využíváme interaktivní tabuli na obrázky a mapy. Největším přínosem je pro děti možnost naslouchat angličtině a načerpat správnou výslovnost. Dále i to, že je vše děláno trochu jinou, hravou formou - oproti standardním hodinám. Co se týče spolupráce s rodilými mluvčími, je z mého pohledu úplně bezvadná. Vyjdeme si navzájem vstříc - buď přijdu s nápadem, co by se dalo v hodině dělat, já a John nebo Filip to téma rozvinou nebo to funguje i  opačně. Rozhodně děti nemusí mít strach, když někdo nerozumí, pomůže mu buď spolužák, učitel nebo i sám anglicky mluvící pedagog.
+      S CLILEM mám zkušenost již druhým rokem jako učitelka, předtím i z pozice asistentky. Děti se hravou formou seznamují s angličtinou - hrají hry, zpívají písničky nebo se učí s interaktivní tabulí. Jako největší přínos vidím možnost naslouchat angličtině a načerpat správnou výslovnost. Dále i to, že výuka probíhá jinou formou oproti standardním hodinám. Spolupráce s rodilými mluvčími je úplně bezvadná. Rozhodně děti nemusí mít strach, když něčemu hned nerozumí, pomůže jim buď spolužák, učitel nebo i sám anglicky mluvící pedagog.
     autor: Květa Soukupová
     job: učitelka 5.C
 ---
