@@ -17,8 +17,8 @@ aktivita:
   nadpis: Naše aktivity
   podtitul: a plány do budoucna
   text: |
-    Ve spolupráci s vedením školy a učitely se už leccos povedlo. 
-    Třeba výuka s anglicky mluvícími učitely (tzv. [CLIL](/aktivity/clil)), kroužky [robotiky](/aktivity/robotika),
+    Ve spolupráci s vedením školy a učiteli se už leccos povedlo. 
+    Třeba výuka s anglicky mluvícími učiteli (tzv. [CLIL](/aktivity/clil)), kroužky [robotiky](/aktivity/robotika),
     [podpora dětí](/aktivity/podpora) ze sociálně slabších rodin
     nebo burzy jarního a podzimního oblečení ve školní jídelně. Chtěli bychom ale také pomáhat při přípravě, 
     organizování a financování různých akcí, jako jsou vánoční trhy, školní ples, školní akademie, případně 
@@ -40,7 +40,7 @@ penize:
 
 okruhy:
   - nazev: Rodičovské kavárny
-    text: Přednášky o výchově a vzdělávání a setkávání s vedením školy a učitely
+    text: Přednášky o výchově a vzdělávání a setkávání s vedením školy a učiteli
     icon: flaticon-classroom-1
 
   - nazev: Pomoc potřebným
