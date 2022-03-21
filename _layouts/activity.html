@@ -60,6 +60,28 @@ breadlink: /aktivity
                   </div>
                   <!-- /col-md-12-->
                   {% endif %}
+                  {% if page.reference %}
+                  <p class="h7 mb-0 mt-5">{{ page.reference-nadpis }}</p>
+                  <div class="col-md-12">
+                     <div class="carousel-2items owl-carousel owl-theme col-md-12">
+                        {% for r in page.reference %}
+                        <div class="testimonial">
+                           <div class="content">
+                              <p class="description">
+                                 {{ r.text }}
+                              </p>
+                           </div>
+                           <!-- /content -->
+                           <div class="testimonial-review">
+                              <h5 class="testimonial-title">{{ r.autor }}</h5>
+                              <span class="post">{{ r.job }}</span>
+                           </div>
+                           <!-- /testimonial-review -->
+                        </div>
+                        {% endfor %}
+                     </div>
+                  </div>
+                  {% endif %}
                   {% if page.people %}
                   <div class="col-lg-12">
                      <h4 class="mt-5">Kontaktní osob{% if page.people.size > 1 %}y{% else %}a{% endif %}</h4>

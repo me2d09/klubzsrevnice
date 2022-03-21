@@ -897,7 +897,7 @@ ul.slider-pagi {
 
 .testimonial {
 	background-color: #faf8d4;
-	padding: 40px 40px 20px 70px;
+	padding: 30px 30px 20px 30px;
 	position: relative;
 }
 
@@ -905,12 +905,12 @@ ul.slider-pagi {
 	content: "";
 	width: 0;
 	height: 0;
-	border-bottom: 50px solid #eee;
-	border-left: 50px solid #fff;
-	box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.17);
+	border-bottom: 38px solid #eee;
+	border-right: 38px solid #fff;
+	box-shadow: -7px 7px 7px rgba(0, 0, 0, 0.17);
 	position: absolute;
 	top: 0;
-	left: 0;
+	right: 0;
 }
 
 .testimonial .description:before {
