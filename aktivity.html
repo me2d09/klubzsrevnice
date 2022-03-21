@@ -1,0 +1,82 @@
+---
+layout: page
+title: Přehled našich aktivit
+---
+<div class="page">
+  <div class="container block-padding">  
+     {% assign selected = site.activities[0].url %}
+     <div class="mt-1">
+        <!-- row -->
+        <div class="row vertical-tabs">
+           <div class="col-lg-12">
+              <!-- navigation -->
+              <div class="tabs-with-icon">
+                 <nav>
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                      {% for a in site.activities %}
+                       <a class="nav-item nav-link{% if a.url == selected%} active{% endif %}" id="tab{{ forloop.index }}-tab" data-toggle="tab" href="#tab{{ forloop.index }}" ><i class="{{ a.icon }}"></i>{{ a.shorttitle }}</a>
+                      {% endfor %}
+                    </div>
+                 </nav>
+                 <!-- tab-content -->
+                 <div class="tab-content block-padding bg-light" id="nav-tabContent">
+                   {% for a in site.activities %}
+                    <div class="tab-pane{% if a.url == selected%} active{% endif %}" id="tab{{ forloop.index }}" role="tabpanel" aria-labelledby="tab{{ forloop.index }}-tab">
+                       <!-- row -->
+                       <div class="row">
+                          <div class="col-lg-6">
+                             <!-- image -->
+                             <img src="/img/aktivity/{{ a.images[0] }}" alt="" class="rounded img-fluid">
+                             <!-- ornament starts-->
+                             <div class="ornament-rainbow" data-aos="fade-right"></div>
+                          </div>
+                          <!-- col-lg -->
+                          <div class="col-lg-6">
+                             <h3>{{ a.title }}</h3>
+                             <p>{{ a.excerpt | truncatewords: 50 }}</p>
+                             <!-- Button -->	 
+                             <a href="{{ a.url }}" class="btn btn-secondary mt-4">více informací</a>
+                          </div>
+                          <!-- /col-lg -->
+                       </div>
+                       <!-- row -->
+                    </div>
+                    {% endfor %}
+                 </div>
+                 <!-- ./Tab-content -->
+              </div>
+              <!-- vertical-tabs -->
+           </div>
+           <!-- /col-lg-6 -->
+        </div>
+        <!-- /row --> 
+     </div>
+     <!-- /mt-5 -->	 
+     <!-- row starts -->
+     <div class="row mt-5">
+      <div class="col-lg-5">
+         <h2>Chystáme více aktivit</h2>
+         <span class="h7 mt-3">Co všechno by se ještě dalo dělat aneb s čím byste mohli pomoci?</span>
+      </div>
+      <!-- /col-lg-->
+      <div class="col-lg-7">
+        <ul class="custom mt-2">
+          <li>Pomoc s <b>vánočními trhy</b></li>
+          <li>Pomoc se <b>školní akademií</b></li>
+          <li>Pomoc se <b>školním plesem</b></li>
+          <li><b>Rodičovské kavárny</b></li>
+          <li><b>Odborníci do výuky</b> podle vzoru www.denproskolu.cz </li>
+          <li><b>Fundraising pro klub</b> (dary, granty, dotace)</li>
+          <li><b>Pumptrack</b> v řevnicích</li>
+          <li>Cokoliv dalšího, co pomůže dětem a škole</li>
+          <li>Podpora vybavení školy a školní družiny</li>
+          <li>Podpora profesního vzdělávání pedagogů (kurzy / workshopy/školení pro učitele)</li>
+          <li>Doučování / přípravné kurzy</li>
+        </ul>
+      </div>
+      <!-- /col-lg -->
+   </div>
+   <!-- /row -->    
+  </div>
+  <!-- /container -->
+</div>
