@@ -1,0 +1,55 @@
+kdojsme:
+  nadpis: Kdo jsme
+  podtitul: a co chceme
+  text: |
+    Jsme rodiče a přátelé [ZŠ Řevnice](https://www.zsrevnice.cz/), kterým na naší škole záleží, 
+    a proto ji chceme v rámci svých možností a ve spolupráci s pedagogickým sborem pomáhat. 
+    Naší snahou je, aby řevnická škola byla tou nejlepší školou pro naše děti, aby do ní chodily 
+    rády, cítily se v ní bezpečně a získaly v ní znalosti a dovednosti potřebné pro život 
+    ve 21. století.
+    
+    Protože věříme, že možností, jak školu podpořit a také lidí, kteří by ji rádi pomohli, je hodně, 
+    rozhodli jsme se obnovit činnost klubu rodičů a přátel školy a vyzvat všechny zájemce ke spolupráci. 
+    Protože víc hlav víc ví, víc rukou toho víc udělá a čím více nás bude, tím větší budou naše možnosti 
+    a tím více toho pro školu a naše děti uděláme :-).
+aktivita:
+  nadpis: Naše aktivita
+  podtitul: a plány do budoucna
+  text: |
+    Ve spolupráci s vedením školy a učitely se už leccos povedlo. 
+    Třeba výuka s anglicky mluvícími učitely (tzv. [CLIL](/aktivity/clil)), kroužky [robotiky](/aktivity/robotika),
+    [podpora dětí](/aktivity/podpora) ze sociálně slabších rodin
+    nebo burzy jarního a podzimního oblečení ve školní jídelně. Chtěli bychom ale také pomáhat při přípravě, 
+    organizování a financování různých akcí, jako jsou vánoční trhy, školní ples, školní akademie, případně 
+    vymyslet a zorganizovat další zábavné a kulturní akce pro děti a pro školu. Plánujeme tzv. rodičovské 
+    kavárny na různá výchovně - vzdělávací témata, jako například kybernetická bezpečnost, šikana, výchova 
+    s technologiemi a mnohá další podle zájmu. Svojí činností chceme přispět ke zkvalitnění školního prostředí, 
+    zpestření výuky a k rozšíření možností pro trávení volného času. Vítáme všechny náměty a komentáře lidí 
+    se zájmem o školu, které budeme konzultovat s vedením ZŠ Řevnice.   
+
+penize:
+  nadpis: Kde seženeme peníze?
+  text: |
+    Příjmy klubu budou tvořit především členské příspěvky, dary, 
+    výnosy z různých společenských akcí a doufáme, že i granty. 
+    Veškeré získané peníze využijeme ve prospěch školy a jejích žáků a o 
+    jejich konkrétním určení rozhodne na doporučení svých členů Rada klubu.
+    
+    Dává vám to smysl?
+
+okruhy:
+  - nazev: Rodičovské kavárny
+    text: Přednášky o výchově a vzdělávání a setkávání s vedením školy a učitely
+    icon: flaticon-classroom-1
+
+  - nazev: Pomoc potřebným
+    text: Podpora dětí ze sociálně slabších rodin – platby za obědy, družinu, lyžák apod.
+    icon: flaticon-maternity
+
+  - nazev: Rodiče pro školu
+    text: Zájmové kroužky, výuka s anglicky mluvícím učitelem, odborníci ve výuce, workshopy nebo exkurze   
+    icon: flaticon-balloon-playing
+
+  - nazev: Pomoc při školních akcích
+    text: Vánoční trhy, školní ples, školní akademie a mnohé další akce na podporu školy
+    icon: flaticon-school

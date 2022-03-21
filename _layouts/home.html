@@ -164,24 +164,16 @@ layout: default
         <div class="container">
            <!-- section heading -->  
            <div class="section-heading text-center">
-              <h2>Kdo jsme</h2>
-              <p class="subtitle">a co chceme</p>
+              <h2>{{ site.data.home.kdojsme.nadpis }}</h2>
+              <p class="subtitle">{{ site.data.home.kdojsme.podtitul }}</p>
            </div>
            <!-- /section-heading -->
            <div class="row">
               <div class="col-lg-7 ">
                  <h3>Náš cíl</h3>
                   <p class="mt-4 res-margin">
-                  Jsme rodiče a přátelé ZŠ Řevnice, kterým na naší škole záleží, 
-                  a proto ji chceme v rámci svých možností a ve spolupráci s pedagogickým sborem pomáhat. 
-                  Naší snahou je, aby řevnická škola byla tou nejlepší školou pro naše děti, aby do ní chodily 
-                  rády, cítily se v ní bezpečně a získaly v ní znalosti a dovednosti potřebné pro život 
-                  ve 21. století.</p>
-                  <p>
-                  Protože věříme, že možností, jak školu podpořit a také lidí, kteří by ji rádi pomohli, je hodně, 
-                  rozhodli jsme se obnovit činnost klubu rodičů a přátel školy a vyzvat všechny zájemce ke spolupráci. 
-                  Protože víc hlav víc ví, víc rukou toho víc udělá a čím více nás bude, tím větší budou naše možnosti 
-                  a tím více toho pro školu a naše děti uděláme :-).                                                                                                                                                                       
+                     {{ site.data.home.kdojsme.text | markdownify }}
+                  
                   </p>
                  <a href="/lide" class="btn btn-secondary ">naši lidé</a>
               </div>
@@ -257,27 +249,19 @@ layout: default
         <div class="container">
            <!-- section heading -->  
            <div class="section-heading text-center">
-              <h2>Naše aktivita</h2>
-              <p class="subtitle">a plány</p>
+              <h2>{{ site.data.home.aktivita.nadpis }}</h2>
+              <p class="subtitle">{{ site.data.home.aktivita.podtitul }}</p>
            </div>
            <!-- /section-heading -->
            <!-- features -->
            <div class="mb-4">
-            Ve spolupráci s vedením školy a učitely se už leccos povedlo. 
-            Třeba výuka s anglicky mluvícími učitely (tzv. [CLIL](/aktivity/clil)), kroužky [robotiky](/aktivity/robotika), [podpora dětí](/aktivity/podpora) ze sociálně slabších rodin
-            nebo burzy jarního a podzimního oblečení ve školní jídelně. Chtěli bychom ale také pomáhat při přípravě, 
-            organizování a financování různých akcí, jako jsou vánoční trhy, školní ples, školní akademie, případně 
-            vymyslet a zorganizovat další zábavné a kulturní akce pro děti a pro školu. Plánujeme tzv. rodičovské 
-            kavárny na různá výchovně - vzdělávací témata, jako například kybernetická bezpečnost, šikana, výchova 
-            s technologiemi a mnohá další podle zájmu. Svojí činností chceme přispět ke zkvalitnění školního prostředí, 
-            zpestření výuky a k rozšíření možností pro trávení volného času. Vítáme všechny náměty a komentáře lidí 
-            se zájmem o školu, které budeme konzultovat s vedením ZŠ Řevnice.
-            </div>
+             {{ site.data.home.aktivita.text | markdownify }}
+           </div>
            <div class="row ">
               <div class="col-lg-6">
                  <div class="row">
                     <div class="col-md-6 col-lg-6">
-                    {% for o in site.data.okruhy limit: 4 %}
+                    {% for o in site.data.home.okruhy limit: 4 %}
                        <div class="feature-with-icon">
                           <div class="icon-features">
                              <!-- icon -->
@@ -376,12 +360,8 @@ layout: default
               <div class="col-lg-6 bg-secondary p-5 justify-content-center align-self-center"  data-start="left: 50%;" 
                  data-center="left:-5%;">
                  <div class="text-light justify-content-center align-self-center">
-                    <h3>Kde seženeme peníze?</h3>
-                    <p>Příjmy klubu budou tvořit především členské příspěvky, dary, 
-                        výnosy z různých společenských akcí a doufáme, že i granty. 
-                        Veškeré získané peníze využijeme ve prospěch školy a jejích žáků a o 
-                        jejich konkrétním určení rozhodne na doporučení svých členů Rada klubu.</p>
-                        <p>Dává vám to smysl?</p>
+                    <h3>{{ site.data.home.penize.nadpis }}</h3>
+                    <p>{{ site.data.home.penize.text | markdownify }}</p>
                     <a href="/zapojtese" class="btn btn-tertiary">Pojďte do toho s námi!</a>
                  </div>
                  <!-- /text-light  -->
