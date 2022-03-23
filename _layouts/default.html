@@ -1,15 +1,24 @@
+{% if page.jmeno %}
+{% assign title = page.jmeno %}
+{% assign shorttitle = title | split: " " | first %}
+{% else %}
+{% assign title = page.title %}
+{% assign shorttitle = page.title %}
+{% endif %}
+{% assign htmltitle = title | append: " | " | append: site.title %}
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-    {% include head.html %}
-   </head>
-   <!-- ==== body starts ==== -->
-   <body id="top">
+  <head>
+    {% include head.html title=htmltitle %}
+  </head>
+  <body id="top">
     {% include header.html %}
-      <!-- page wrapper starts -->
       <div id="page-wrapper">
+        {% unless layout.hidejumbo %}
+        {% include jumbotron.html shorttitle = shorttitle title = title %}
+        {% endunless %}
         {{ content }}
       </div>
-      <!--/ page-wrapper -->
     {% include footer.html %}  
-    </body></html>
+  </body>
+</html>
