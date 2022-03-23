@@ -13,7 +13,7 @@
 {% if page.layout == "post" %}
     <meta content="article" property="og:type">
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-    <meta content="{{ page.excerpt | strip_html  }}" property="og:description">
+    <meta content="{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |  truncatewords: 50 }}" property="og:description">
 {% if page.autor %}
 {% assign autorurl = "/lide/" | append: page.autor %}
 {% assign autor = site.people 
