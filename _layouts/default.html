@@ -5,7 +5,11 @@
 {% assign title = page.title %}
 {% assign shorttitle = page.title %}
 {% endif %}
+{% if title %}
 {% assign htmltitle = title | append: " | " | append: site.title %}
+{% else %}
+{% assign htmltitle = site.title %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
