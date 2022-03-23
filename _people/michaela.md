@@ -2,7 +2,7 @@
 jmeno: Michaela Kvasničková
 position: 
 photo: michaela.jpg
-mail: 
+mail: kvasnickova@zsrevnice.cz
 fb: 
 twitter: 
 linkedin: 
