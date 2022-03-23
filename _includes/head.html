@@ -17,15 +17,15 @@
 {% assign autor = site.people 
             | where_exp:"l", "l.url == autorurl" 
             | first %}
-    <meta content="{{ site.url }}{{ autorurl }}" property="article:author">
+    <meta content="{{ autorurl | absolute_url }}" property="article:author">
 {% endif %}{% if page.image %}
-    <meta content="{{ site.url }}/img/blog/{{ page.image }}" property="og:image">
+    <meta content="{{ page.image | prepend: '/img/blog/' | absolute_url  }}" property="og:image">
 {% endif %}{% else %}
     <meta content="website" property="og:type">
 {% endif %}{% if page.layout == "people" %}
-    <meta content="{{ site.url }}/img/team/{{ page.photo | default: 'unknown.jpg' }}" property="og:image">
+    <meta content="{{ page.photo | default: 'unknown.jpg' | prepend: '/img/team/' | absolute_url }}" property="og:image">
 {% endif %}{% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta content="{{ page.url | absolute_url  }}" property="og:url">
 {% endif %}
     <!--[if lt IE 9]>
     <script src="/js/respond.js"></script>
