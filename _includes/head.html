@@ -3,29 +3,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
     <!-- page title -->
     <title>{{ include.title }}</title>
     <meta property="fb:appid" content="{{ include.ogtitle }}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:title" content="{{ include.ogtitle }}">
+{% if page.excerpt %}
+{% assign description = page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |  truncatewords: 50 %}
+{% else %}
+{% assign description = site.description %}
+{% endif %}
+    <meta property="og:description" content="{{ description }}">
+    <meta name="description" content="{{ description }}">
 {% if page.layout == "post" %}
     <meta content="article" property="og:type">
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-    <meta content="{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |  truncatewords: 50 }}" property="og:description">
 {% if page.autor %}
 {% assign autorurl = "/lide/" | append: page.autor %}
 {% assign autor = site.people 
             | where_exp:"l", "l.url == autorurl" 
             | first %}
     <meta content="{{ autorurl | absolute_url }}" property="article:author">
+    <meta name="author" content="{{ autor.jmeno | absolute_url }}">
 {% endif %}{% if page.image %}
     <meta content="{{ page.image | prepend: '/img/blog/' | absolute_url  }}" property="og:image">
 {% endif %}{% else %}
     <meta content="website" property="og:type">
 {% endif %}{% if page.layout == "people" %}
-    <meta content="{{ page.photo | default: 'unknown.jpg' | prepend: '/img/team/' | absolute_url }}" property="og:image">
+<meta content="{{ page.photo | default: 'unknown.jpg' | prepend: '/img/team/' | absolute_url }}" property="og:image">
+{% endif %}{% if page.layout == "activity" %}
+<meta content="{{ page.images[0] | prepend: '/img/aktivity/' | absolute_url }}" property="og:image">
 {% endif %}{% if page.url %}
     <meta content="{{ page.url | absolute_url  }}" property="og:url">
 {% endif %}
