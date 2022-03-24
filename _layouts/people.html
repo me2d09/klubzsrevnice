@@ -13,8 +13,6 @@ breadlink: /lide
                 <!-- Image -->
                 <div class="col-lg-5 text-center">
                    <img src="/img/team/{{ page.photo | default: 'unknown.jpg'  }}" class="img-fluid rounded" alt="">
-                   <!-- ornament starts-->
-                   <div class="ornament-stars" data-aos="zoom-out"></div>
                 </div>
                 <!-- /col-lg -->
                 <div class="col-lg-7">
@@ -23,7 +21,7 @@ breadlink: /lide
                    <p class="h7">{{ page.bio }}</p>
                    <!-- social icons -->
                    <ul class="social-media">
-                    {% if page.mail %}<li><a href="mailto:{{ page.mail }}"><i class="fa fa-envelope"></i></a></li>{% endif %}
+                    {% if page.mail %}<li><a href="mailto:{{ page.mail }}"><i class="fa fa-envelope"></i> <span>{{ page.mail }}</span></a></li><br>{% endif %}
                     {% if page.fb %}<li><a href="https://www.facebook.com/{{ page.fb }}"><i class="fab fa-facebook"></i></a></li>{% endif %}
                     {% if page.twitter %}<li><a href="https://twitter.com/{{ page.twitter }}"><i class="fab fa-twitter"></i></a></li>{% endif %}
                     {% if page.linkedin %}<li><a href="https://www.linkedin.com/in/{{ page.linkedin }}"><i class="fab fa-linkedin"></i></a></li>{% endif %}
