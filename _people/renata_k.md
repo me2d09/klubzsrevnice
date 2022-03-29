@@ -2,7 +2,7 @@
 jmeno: Renata Kolečkářová
 position: 
 photo: renatak.jpg
-mail: 
+mail: renata.koleckarova@email.cz
 fb: 
 twitter: 
 linkedin: 
