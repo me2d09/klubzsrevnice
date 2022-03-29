@@ -2,7 +2,7 @@
 jmeno: Markéta Sedláčková Davidová
 position: 
 photo: marketa.jpg
-mail: 
+mail: marketa.sedlackova.davidova@seznam.cz
 fb: 
 twitter: 
 linkedin: 
