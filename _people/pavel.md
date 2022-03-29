@@ -2,7 +2,7 @@
 jmeno: Pavel Jisl
 position: lektor
 photo: pavel.jpg
-mail: 
+mail: pavel.jisl@gmail.com
 fb: 
 twitter: 
 linkedin: 
