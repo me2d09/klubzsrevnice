@@ -2,7 +2,7 @@
 jmeno: Vendula a Karel Brabcovi
 position: 
 photo: vendula_karel.jpg
-mail: 
+mail: valaskov@centrum.cz
 fb: 
 twitter: 
 linkedin: 
