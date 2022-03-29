@@ -2,7 +2,7 @@
 jmeno: Jana Chárová
 position: 
 photo: jana.jpg
-mail: 
+mail: petrovajana@hotmail.com
 fb: 
 twitter: 
 linkedin: 
