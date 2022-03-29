@@ -2,7 +2,7 @@
 jmeno: Andrea Gregorová
 position: 
 photo: andrea.jpg
-mail: 
+mail: andy.gregorova@gmail.com
 fb: 
 twitter: 
 linkedin: 
