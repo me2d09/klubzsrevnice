@@ -2,7 +2,7 @@
 jmeno: Radka Wallerová
 position: 
 photo: radka.jpg
-mail: 
+mail: radka.wall@gmail.com
 fb: 
 twitter: 
 linkedin: 
