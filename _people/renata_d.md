@@ -2,7 +2,7 @@
 jmeno: Renata Dudová
 position: 
 photo: renatad.jpg
-mail: 
+mail: rendudova@gmail.com
 fb: 
 twitter: 
 linkedin: 
