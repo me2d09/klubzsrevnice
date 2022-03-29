@@ -2,7 +2,7 @@
 jmeno: Zlatka Benešová
 position: 
 photo: zlatka.jpg
-mail: 
+mail: zlatkahruba@seznam.cz
 fb: 
 twitter: 
 linkedin: 
