@@ -2,7 +2,7 @@
 jmeno: Pavla Langová
 position: 
 photo: pavla.jpg
-mail: 
+mail: langova.pavla@gmail.com
 fb: 
 twitter: 
 linkedin: 
