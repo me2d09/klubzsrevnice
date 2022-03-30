@@ -2552,7 +2552,6 @@ a .card-title:hover {
 	padding-left: 0px;
 }
 
-
 /* section */
 
 section {
@@ -3160,6 +3159,9 @@ ul.checkmark li:before {
 		min-height: 50px;
 		padding: 0px;
 	}
+	article.section {
+		scroll-margin-top: 54px;
+	}	
 	.nav-brand img {
 		max-height: 50px;
 		padding: 5px;
@@ -3312,6 +3314,9 @@ ul.checkmark li:before {
 	/* others */
 	.res-margin {
 		margin-top: 30px;
+	}
+	.res-mb-4 {
+		margin-bottom: 1.5rem!important;
 	}
 	.img-rotate-outline {
 		padding: 30px;
@@ -3743,6 +3748,10 @@ ul.checkmark li:before {
 	.dropdown-menu {
 		margin-top: 30px;
 	}
+	article.section {
+		scroll-margin-top: 90px;
+	}
+	
 }
 
 
