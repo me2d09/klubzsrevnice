@@ -16,6 +16,7 @@ Bude tam vše až do značky více a tak (viz další řádek).
 Sem už se píše vlastní text aktuality, co bude vidět po "rozkliknutí".
 aktualita
 další
+dallší
 
 Ukázka formátování:
 
