@@ -47,7 +47,7 @@ Zahájení, prezence, vyhodnocení usnášeníschopnosti schůze
 
 6. Plán akcí a výzva k předkládání návrhů na akce pro r. 2022 
 
-  (stanovení termínu pro přijímání návrhů včetně rozpočtu)
+      (stanovení termínu pro přijímání návrhů včetně rozpočtu)
   
 7. Stanovení výše a splatnosti členského příspěvku pro školní rok 2022/2023
 
