@@ -8,7 +8,7 @@ quotecite: Petr Čermák  # kdo to řekl (nepovinné)
 ---
 Tohle je ukázková aktualita na webu klub zš řevnice.
 Text na začátku bude vidět i v souhrnu na první stránce. Doporučuju psát 1-3 věty maximálně!!
-Bude tam vše až do značky více (viz další řádek).
+Bude tam vše až do značky více a tak (viz další řádek).
 
 
 <!--vice-->
