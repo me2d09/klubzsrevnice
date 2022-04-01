@@ -14,6 +14,8 @@ Bude tam vše až do značky více a tak (viz další řádek).
 <!--vice-->
 
 Sem už se píše vlastní text aktuality, co bude vidět po "rozkliknutí".
+aktualita
+další
 
 Ukázka formátování:
 
