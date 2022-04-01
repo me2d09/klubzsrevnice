@@ -8,17 +8,20 @@ quotecite:  # kdo to řekl (nepovinné)
 ---
 Chcete se zapojit do obnoveného rodičovského klubu při základní škole Řevnice? 
 Nebo se jen dozvědět, o co vlastně jde?
-Přijďte na úvodní setkání!
+Přijďte 5.4. 2022 na úvodní setkání!
 
 <!--vice-->
 
-Program členské schůze Klubu rodičů a přátel školy ZŠ Řevnice, z.s.
+**Program členské schůze Klubu rodičů a přátel školy ZŠ Řevnice, z.s.**
+
 
 Datum: 05.04.2022
 
 Místo: Školní jídelna (ul. Legií 622, Řevnice)
 
 Čas: od 18,00 hod.
+
+
 
 I. Část: Neformální veřejné setkání pro všechny zájemce o činnost Klubu
 
@@ -29,6 +32,7 @@ I. Část: Neformální veřejné setkání pro všechny zájemce o činnost Klu
 3. Plánované aktivity Klubu
  
 4. Slovo ředitele ZŠ Řevnice
+  
   
 
 II. Část: Členská schůze 
