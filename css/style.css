@@ -387,7 +387,7 @@ a:focus {
 }
 
 .top-bar ul,
-ol {
+.top-bar ol {
 	margin-bottom: 0px;
 	padding: 0px;
 }
