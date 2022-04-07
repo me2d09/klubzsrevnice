@@ -1,6 +1,6 @@
 ---
 layout: post   # to tu musí být
-title:  Obnovený klub rodičů se představil veřejnosti  # nadpis, max cca 30 znaků (vyzkoušet)
+title: Obnovený klub rodičů se představil veřejnosti  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
 image: prvni-setkani.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
 quote: Nadšení bylo všudypřítomné.  # citát (nepovinné) - jeho umístění se dělá pomocí <!--quote--> v textu
