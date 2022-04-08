@@ -14,7 +14,7 @@ představila především vizi a plánované aktivity obnoveného klubu.
 Svůj prostor dostali také představitelé jednotlivých aktivit, ať už šlo o robotiku, CLIL anebo podporu dětí. 
 Zároveň během večera zazněla také řada dalších nápadů, kterými by klub mohl řevnické škole a jejím žákům prospět.
 Ať už šlo o organizaci oblíbených vánočních školních trhů nebo podporu volnočasových aktivit starších dětí.
-Mezi příznivci klubu byli nejen rodiče žáků, ale také mezi ně zavítal ředitel školy Tomáš Řezníček, který se už moc těší na 
+Mezi příznivci klubu byli nejen rodiče žáků, ale také zástupci školy, mimo jiné její ředitel Tomáš Řezníček, který se už moc těší na 
 vzájemnou spolupráci. Všichni přítomní se shodli, že nadšení rodičů a podpora vedení školy je to nejlepší, co klub mohlo potkat. 
 
 
