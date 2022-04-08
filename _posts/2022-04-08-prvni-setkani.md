@@ -3,8 +3,7 @@ layout: post   # to tu musí být
 title: Obnovený klub rodičů se představil veřejnosti  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
 image: prvni-setkani.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
-quote: Nadšení pro věc bylo všudypřítomné.  # citát (nepovinné) - jeho umístění se dělá pomocí <!--quote--> v textu
-quotecite: účastnice setkání  # kdo to řekl (nepovinné)
+
 ---
 Dne 5.4.2022 v podvečer se ve školní jídelně poprvé sešli všichni příznivci klubu. Předsedkyně klubu Jitka Nosková
 představila především vizi a plánované aktivity obnoveného klubu.
