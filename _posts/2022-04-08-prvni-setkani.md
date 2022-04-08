@@ -19,7 +19,7 @@ vzájemnou spolupráci. Všichni přítomní se shodli, že nadšení rodičů a
 
 
 V druhé polovině setkání proběhla členská schůze klubu, kde se řešilo hospodaření klubu, pravidla pro výběr členských příspěvků,
-byli jmenováni garanti jednotlivých aktivit a také byl stanoven plán akcí včetně výzvy k překládání návrhů na akce pro rok 2022.
+byli jmenováni garanti jednotlivých aktivit a také jsme diskutovali plán akcí včetně výzvy k překládání návrhů na akce pro rok 2022.
 Zároveň byl krátce představen plánovaný projekt „Dotkni se vesmíru“, který spadá pod robotiku. 
 
 
