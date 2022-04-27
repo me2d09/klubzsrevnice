@@ -10,10 +10,11 @@ V úterý 5.4.2022 se ve školní jídelně povedlo uskutečnit první společn�
 <!--vice-->
 
 Na úvod setkání představila předsedkyně klubu Jitka Nosková vizi klubu a jeho plány do budoucna, tak aby klub dokázal úspěšně navázat na svého předchůdce Řevnický kalamář. 
-Po ní si převzal slovo ředitel školy Tomáš Řezníček, který neskrýval obnovení klubu rodičů na škole velmi vítá. Všichni pevně věříme, že díky nadšení rodičů a podpoře ze strany
+Po ní si převzal slovo ředitel školy Tomáš Řezníček, který neskrýval radost, že obnovení klubu rodičů na škole velmi vítá. Všichni pevně věříme, že díky nadšení rodičů a podpoře ze strany
 vedení školy bude klub úspěšný. 
 
 Atmosféra setkání byla skvělá a mezi přítomnými se objevovaly první nápady, jakým způsobem by mohl klub pomoci. Mezi nimi byly například podpora knihovniček na chodbách školy, hřiště pro "náctileté" a jiné.
+
 
 
 
