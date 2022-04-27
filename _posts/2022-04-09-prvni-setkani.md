@@ -5,7 +5,7 @@ autor: andrea  # křestní jméno autora, lze nechat prázdné
 image: prvni-sekani.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
 
 ---
-V úterý 5.4.2022 se ve školní jídelně povedlo uskutečnit první společné setkání zástupců klubů rodičů a školy s veřejností.
+V úterý 5.4.2022 se ve školní jídelně povedlo uskutečnit první společné setkání zástupců klubu rodičů a školy s veřejností.
 
 <!--vice-->
 
