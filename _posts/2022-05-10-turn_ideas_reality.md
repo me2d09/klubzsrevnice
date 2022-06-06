@@ -5,7 +5,7 @@ autor: andrea  # křestní jméno autora, lze nechat prázdné
 image: turn_ideas_reality.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
 
 ---
-První květnový týden proběhla schůzka rady klubu s Tomášem Řezníčkem. Jitka, Lucka a Katka totiž potřebovaly probrat všechny skvělé nápady, které jsme za dobu existence klubu nashromáždily.
+První květnový týden proběhla schůzka rady klubu s Tomášem Řezníčkem. Jitka, Lucka a Katka totiž potřebovaly probrat všechny skvělé nápady, které jsme za dobu existence klubu nashromáždili.
 
 <!--vice-->
 
