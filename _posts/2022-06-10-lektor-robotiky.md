@@ -2,7 +2,7 @@
 layout: post   # to tu musí být
 title:  Hledáme lektora robotiky na školní rok 2022-2023  # nadpis, max cca 30 znaků (vyzkoušet)
 autor:  # křestní jméno autora, lze nechat prázdné
-image: robot.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
+image: robotika.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
 
 ---
 Stále se hledají nové posily do týmu lektorů kroužku robotika v Řevnicích
