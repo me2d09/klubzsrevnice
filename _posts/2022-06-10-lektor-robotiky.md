@@ -9,9 +9,9 @@ Stále se hledají nové posily do týmu lektorů kroužku robotika v Řevnicíc
 
 <!--vice-->
 
-**Co se očekává:** trpělivost s dětmi 😊
+**Co očekáváme:** trpělivost s dětmi 😊
 
-**Co se nabízí:** 
+**Co nabízíme:** 
 -	spousta zábavy s dětmi
 -	projekty a experimenty
 -	radost z toho, že se to dětem povede
