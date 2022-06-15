@@ -2,7 +2,7 @@
 layout: post
 title:  Řevnické děti se dotknou vesmíru
 autor: jitka
-image: dotkni-se-vesmiru.jpg
+image: /img/blog/dotkni-se-vesmiru.jpg
 quote: Bude to pro děti zážitek na celý život.
 quotecite: Petr Čermák
 tags: projekt
