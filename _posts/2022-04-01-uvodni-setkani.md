@@ -2,7 +2,7 @@
 layout: post   # to tu musí být
 title:  Setkání klubu rodičů pro veřejnost  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
-image: setkani-klubu.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
+image: /img/blog/setkani-klubu.jpg  # jméno obrázku včetně adresáře, velikost 900x600
 quote:  # citát (nepovinné) - jeho umístění se dělá pomocí <!--quote--> v textu
 quotecite:  # kdo to řekl (nepovinné)
 ---

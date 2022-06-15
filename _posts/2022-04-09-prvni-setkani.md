@@ -2,8 +2,7 @@
 layout: post   # to tu musí být
 title: Klub rodičů se představil veřejnosti  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
-image: prvni-setkani.jpg  # jméno obrázku v adresáři img/blog, velikost 900x600
-
+image: /img/blog/prvni-setkani.jpg  # jméno obrázku včetně adresáře, velikost 900x600
 ---
 V úterý 5.4.2022 se ve školní jídelně povedlo uskutečnit první společné setkání zástupců klubu rodičů a školy s veřejností.
 

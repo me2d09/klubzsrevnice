@@ -2,7 +2,7 @@
 layout: post
 title:  "V řevnické škole znovu ožívá klub rodičů"
 autor: jitka
-image: klub.jpg
+image: /img/blog/klub.jpg
 tags: klub
 quote: Je dobře, že se po čase našli další rodiče, kteří se chtějí aktivně zapojit do dění ve škole.
 quotecite: Kateřina Šupáčková

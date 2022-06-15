@@ -2,7 +2,7 @@
 layout: post
 title:  "Klub rodičů a přátel školy velmi vítám"
 autor: jitka
-image: reznicek.jpg
+image: /img/blog/reznicek.jpg
 quote: Klub rodičů je z mého pohledu velmi zajímavý a potřebný partner školy a já jeho oživení vítám.
 quotecite: Tomáš Řezníček
 tags: rozhovor

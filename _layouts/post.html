@@ -24,7 +24,7 @@ hidelastbread: true
              </div>
              <hr>
              <!-- Preview Image -->
-             <img src="/img/blog/{{ page.image }}" class="img-blog-top" alt="">
+             <img src="{{ page.image }}" class="img-blog-top" alt="">
              <hr>
              <!-- Post Content -->
              {% if page.quote %}
@@ -54,7 +54,7 @@ hidelastbread: true
                    {% continue %}
                    {% endif %}
                    <a href="{{ p.url }}" class="list-group-item list-group-item-action">
-                   <img src="/img/blog/{{ p.image }}" class="img-fluid rounded" />   
+                   <img src="{{ p.image }}" class="img-fluid rounded" />   
                      {{ p.title }}
                    </a>
                    {% endfor %}

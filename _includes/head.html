@@ -26,7 +26,7 @@
     <meta content="{{ autorurl | absolute_url }}" property="article:author">
     <meta name="author" content="{{ autor.jmeno | absolute_url }}">
 {% endif %}{% if page.image %}
-    <meta content="{{ page.image | prepend: '/img/blog/' | absolute_url  }}" property="og:image">
+    <meta content="{{ page.image | absolute_url  }}" property="og:image">
 {% endif %}{% else %}
     <meta content="website" property="og:type">
 {% endif %}{% if page.layout == "people" %}
