@@ -310,7 +310,7 @@ hidejumbo: true
               <div class="blog-box">
                  <!-- image -->
                  <a href="{{ p.url }}">
-                    <div class="image"><img src="/img/blog/{{ p.image | default: 'blogstyle2-1.jpg' }}" alt=""/></div>
+                    <div class="image"><img src="{{ p.image | default: '/img/blog/blogstyle2-1.jpg' }}" alt=""/></div>
                  </a>
                  <!-- blog-box-caption -->
                  <div class="blog-box-caption">
