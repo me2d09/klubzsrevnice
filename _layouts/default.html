@@ -5,7 +5,9 @@
 {% assign title = page.title %}
 {% assign shorttitle = page.title %}
 {% endif %}
-{% if title %}
+{% if page.layout == "home" %}
+{% assign htmltitle = page.title %}
+{% elsif title %}
 {% assign htmltitle = title | append: " | " | append: site.title %}
 {% else %}
 {% assign htmltitle = site.title %}
