@@ -12,7 +12,7 @@ faq:
   - nadpis: Jaké vybavení se na kroužcích využívá?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas hrajeme Minecraft Education.
   - nadpis: Jak často kroužek probíhá a kolik stojí?
-    text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 1800 Kč na půl roku, získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem.
+    text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2000 Kč na půl roku, získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Od školního roku 2022/23 bude pro pokročilé děti fungovat také dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená bude každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy budou tvořit vlastní projekty. Budou využívat 3D tisk, programovat, stavět, pájet a dělat spoustu dalších zajímavých věcí. Cena za vstup do dílny je také 2000 Kč za pololetí.   
   - nadpis: Jak přihlásit dítě do kroužku?
     text: Kontaktujte jednoho z lektorů a zjistěte, jestli je volné místo. Časem se chystají webové stránky kroužku, kde budou zveřejněny podrobnosti.
 people:
