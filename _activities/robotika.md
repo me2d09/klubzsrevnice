@@ -19,6 +19,7 @@ people:
   - jitka
   - pavel
   - petr
+  - milan
 ---
 V roce 2018 jsme ve spolupráci s GRAMOFONDEM, nadačním fondem GZ Media a ZŠ Řevnice začali pořádat technické kroužky pod názvem Robotika je hra. Děti se pod vedením zkušených lektorů z řad rodičů seznamují se základy fyziky, mechaniky, robotiky a programování. 
 
