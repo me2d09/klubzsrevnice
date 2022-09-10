@@ -30,18 +30,22 @@ V roce 2018 jsme ve spolupráci s GRAMOFONDEM, nadačním fondem GZ Media a ZŠ 
 
 Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky vedou s nadšením a bez nároku na honorář, takže se kurzovné může využít na nákup relativně drahého vybavení a ještě něco zbyde na podporu činnosti klubu rodičů. Pokud by někdo další měl zájem se na vedení těchto kroužků podílet, nebo chtěl finančním darem podpořit jejich konání, budeme velmi rádi. Zájemci o spolupráci se mohou ozvat přímo lektorům nebo na [klubzsrevnice@gmail.com](mailto:klubzsrevnice@gmail.com).
 
-#### Kroužky Robotika je hra A,B, C a dílna D
+#### Kroužky Robotika je hra A,B,C a dílna D
 
 PONDĚLÍ 14:00 - 15:30 hod.
-Pokročilí B (ZŠ Řevnice, Školní 600, učebna č. 101)
-Pokročilí C (ZŠ Řevnice, Školní 600, učebna č. 105)
+Pokročilí B 
+(ZŠ Řevnice, Školní 600, učebna č. 101)
+Pokročilí C 
+(ZŠ Řevnice, Školní 600, učebna č. 105)
 
 PONDĚLÍ 15:30 - 17:00 hod.
-Začátečníci A (ZŠ Řevnice, Školní 600, učebna č. 105)
+Začátečníci A 
+(ZŠ Řevnice, Školní 600, učebna č. 105)
 
 STŘEDA 14:00 - 18:00 hod. 
 (systém rezervace časových bloků v otevírací době dílny, více informací následně od lektorů)
-Pokročilí D (v budově u hřiště Národní házené Řevnice,  Sportovní 981)  
+Pokročilí D 
+(v budově u hřiště Národní házené Řevnice,  Sportovní 981)  
 
 CENA
 Cena za pololetí činí 2 000 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice.
