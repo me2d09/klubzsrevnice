@@ -8,13 +8,14 @@ images:
   - robotika4.jpg
 faq:
   - nadpis: Pro jak staré děti je kroužek určen?
-    text: Kroužek je vhodný pro děti od 2. třídy, momentálně máme otevřené celkem 3 kroužky a navštěvují je děti od 2. do 5. třídy.
+    text: Kroužek je vhodný pro děti od 2. třídy, momentálně máme otevřené celkem 3 kroužky, které navštěvují děti od 2. třídy. Pro děti od 6. třídy je vhodná dílna, kde se pod vedením lektorů pracuje na vlastních projektech.
   - nadpis: Jaké vybavení se na kroužcích využívá?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas hrajeme Minecraft Education.
   - nadpis: Jak často kroužek probíhá a kolik stojí?
-    text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč), získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Od školního roku 2022/23 bude pro pokročilé děti fungovat také dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená bude každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy budou tvořit vlastní projekty. Budou využívat 3D tisk, programovat, stavět, pájet a dělat spoustu dalších zajímavých věcí. Cena za vstup do dílny je také 2000 Kč za pololetí.   
+    text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč), získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Od školního roku 2022/23 bude pro pokročilé děti fungovat také dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená je každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy budou tvořit vlastní projekty. Budou využívat 3D tisk, programovat, stavět, pájet a dělat spoustu dalších zajímavých věcí. Cena za vstup do dílny je také 2000 Kč za pololetí.   
   - nadpis: Jak přihlásit dítě do kroužku?
     text: Momentálně máme plně obsazenou kapacitu a přijímáme náhradníky.
+    Přihláška: [https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform?usp=pp_url]
 people:
   - pavel
   - petr
