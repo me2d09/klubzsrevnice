@@ -62,10 +62,3 @@ Kroužky se otevírají při minimálním počtu 6 dětí. Max. 10 dětí ve sku
 
 ZAČÁTEK KROUŽKŮ A DÍLNY
 Kroužky i dílna začínají v týdnu od 26. 9. 2022 a končí v týdnu od 29. 5. 2023 (2. pololetí začíná 6. února 2023). 
-
-LEKTOŘI:
-RNDr. Petr Čermák
-Ing. Pavel Jisl
-Ing. Milan Beníček
-Ing. Zdeněk Beneš
-
