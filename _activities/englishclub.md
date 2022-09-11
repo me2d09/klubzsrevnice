@@ -7,6 +7,7 @@ faq:
   - nadpis: Pro koho jsou kurzy určeny?
     text: |
       Kurzy jsou pro všechny děti, které chodí do 4.- 9. třídy. Kurzy jsou rozděleny podle věku (tříd) – do jednoho kurzu tedy chodí děti ze dvou ročníků.
+      
       | Třída  | 4.-5. třídy | 6.-7. třídy | 8.-9. třídy |
       |--------|-------------|-------------|-------------|
       | Den    | Čtvrtek     | Pondělí     | Pondělí     |
