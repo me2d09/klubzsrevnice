@@ -34,6 +34,9 @@ breadlink: /aktivity
                   {% endif %}
                      {{ parts[1] }}
                   </div>
+                  <div class="col-md-12">
+                     {{ parts[2] }}
+                  </div>
                   <!-- /col-md -->
                   {% if page.faq %}
                   <div class="col-md-12 mt-5">
@@ -49,7 +52,7 @@ breadlink: /aktivity
                            <!-- /card-header -->
                            <div id="collapse{{ forloop.index }}" class="collapse" data-parent=".accordion">
                               <div class="card-body">
-                                 <p>{{ f.text }}</p>
+                                 <p>{{ f.text | markdownify }}</p>
                               </div>
                            </div>
                         </div>
