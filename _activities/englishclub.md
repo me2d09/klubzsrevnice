@@ -12,7 +12,7 @@ faq:
       |--------|-------------|-------------|-------------|
       | Den    | Čtvrtek     | Pondělí     | Čtvrtek     |
       | Čas    | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 | 
-      | Lektor | Jacob       | John        | Filip       |
+      | Lektor | Filip       | John        | Jacob       |
   - nadpis: Kde se kurzy konají? 
     text: Všechny lekce se konají v budově ZŠ Řevnice, Školní 600. 
   - nadpis: Jak se přihlásit?
