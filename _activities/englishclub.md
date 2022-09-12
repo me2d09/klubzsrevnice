@@ -10,7 +10,7 @@ faq:
 
       | Třída  | 4.-5. třídy | 6.-7. třídy | 8.-9. třídy |
       |--------|-------------|-------------|-------------|
-      | Den    | Čtvrtek     | Pondělí     | Pondělí     |
+      | Den    | Čtvrtek     | Pondělí     | Čtvrtek     |
       | Čas    | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 | 
       | Lektor | Jacob       | John        | Filip       |
   - nadpis: Kde se kurzy konají? 
