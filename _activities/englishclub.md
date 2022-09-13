@@ -10,14 +10,14 @@ faq:
 
       |            | 4.-5. třídy | 6.-7. třídy | 8.-9. třídy |
       |------------|-------------|-------------|-------------|
-      | **Den**    | Čtvrtek     | Pondělí     | Pondělí     |
+      | **Den**    | Čtvrtek     | Pondělí     | Čtvrtek     |
       | **Čas**    | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 | 
-      | **Lektor** | Jacob       | John        | Filip       |
+      | **Lektor** | Filip       | John        | Jacob       |
       {: .table .table-striped }
   - nadpis: Kde se kurzy konají? 
     text: Všechny lekce se konají v budově ZŠ Řevnice, Školní 600. 
   - nadpis: Jak se přihlásit?
-    text: Vyplňte online přihlášku (bude doplněno).
+    text: Vyplňte [online přihlášku](https://docs.google.com/forms/d/e/1FAIpQLSdO8KzDGGmtk26i3Wc9iT4CjSOAD60QqzCRXG41-zHVbDe4Ww/viewform?usp=pp_url).
   - nadpis: Kdy kurzy začínají?
     text: Kurzy začínají v týdnu od 3. října 2022. 
   - nadpis: Kolik dětí je ve skupině? 
