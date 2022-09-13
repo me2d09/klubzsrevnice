@@ -85,6 +85,20 @@ breadlink: /aktivity
                      </div>
                   </div>
                   {% endif %}
+                  {% if page.teachers %}
+                  <div class="col-lg-12">
+                     <h4 class="mt-5">Kdo jsou naši lektoři?</h4>
+                     <!-- team carousel -->  
+                     <div class="carousel-3items owl-carousel owl-theme mt-5">
+                        {% for pname in page.teachers %}
+                        {% assign purl = "/lide/" | append: pname %}
+                        {% assign p = site.people  | where_exp:"p", "p.url == purl" | first %}
+                        {% include peoplecard2.html p=p %}
+                        {% endfor %}
+                     </div>
+                     <!-- /owl-team--> 
+                  </div>
+                  {% endif %}
                   {% if page.people %}
                   <div class="col-lg-12">
                      <h4 class="mt-5">Kontaktní osob{% if page.people.size > 1 %}y{% else %}a{% endif %}</h4>
