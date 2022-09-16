@@ -26,7 +26,6 @@ faq:
     text: |
       Cena za pololetí (15 lekcí) je 2 200 Kč pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
       
-      *Pozn. Při větším počtu zájemců mají přednost děti členů Klubu rodičů a přátel školy ZŠ Řevnice*
 teachers:  # Kdo jsou naši lektoři?
   - john
   - jacob
