@@ -8,12 +8,15 @@ faq:
     text: |
       Kurzy jsou pro všechny děti, které chodí do 4. - 9. třídy. Kurzy jsou rozděleny podle věku (tříd) – do jednoho kurzu tedy chodí děti ze dvou ročníků.
 
-      |            | 4.-5. třídy | 6.-7. třídy | 8.-9. třídy |
-      |------------|-------------|-------------|-------------|
-      | **Den**    | Čtvrtek     | Pondělí     | Čtvrtek     |
-      | **Čas**    | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 | 
-      | **Lektor** | Filip       | John        | Jacob       |
+      |            | 4.-5. třídy | 4.-5. třídy | 6.-7. třídy | 6.-7. třídy | 8.-9. třídy | 7.-9. třídy | 
+      |------------|-------------|-------------|-------------|-------------|-------------|-------------|
+      | **Den**    | Čtvrtek     | Čtvrtek     | Pondělí     | Pondělí     | Čtvrtek     | Čtvrtek     |
+      | **Čas**    | 13:00-14:00 | 14:00-15:00 | 14:00-15:00 | 15:10-16:10 | 14:00-15:00 | 15:10-16:10 |
+      | **Lektor** | Jacob       | Filip       | John        | John        | Jacob       | Filip       |
+      | **Stav**   | *obsazeno*  | *obsazeno*  | *obsazeno*  | **volné**   | *obsazeno*  | **volné**   |
       {: .table .table-striped }
+
+      U obsazených kurzů přijímáme náhradníky. 
   - nadpis: Kde se kurzy konají? 
     text: Všechny lekce se konají v budově ZŠ Řevnice, Školní 600. 
   - nadpis: Jak se přihlásit?
@@ -21,7 +24,11 @@ faq:
   - nadpis: Kdy kurzy začínají?
     text: Kurzy začínají v týdnu od 3. října 2022. 
   - nadpis: Kolik dětí je ve skupině? 
-    text: Kurz bude otevřen při minimálním počtu 6 dětí. Maximální počet dětí je 10. 
+    text: |
+      Kurz bude otevřen při minimálním počtu 6 dětí. 
+      Maximální počet dětí je 10. 
+      Pokud se děti domluví s kamarády a vytvoří si skupinku o 6–10 dětech, 
+      můžeme pomoci s otevřením dalších kurzů.  
   - nadpis: Kurzovné
     text: |
       Cena za pololetí (15 lekcí) je 2 200 Kč pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
