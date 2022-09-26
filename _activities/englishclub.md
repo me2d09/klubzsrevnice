@@ -13,7 +13,7 @@ faq:
       | **Den**    | Čtvrtek     | Čtvrtek     | Pondělí     | Pondělí     | Čtvrtek     | Čtvrtek     |
       | **Čas**    | 13:00-14:00 | 14:00-15:00 | 14:00-15:00 | 15:10-16:10 | 14:00-15:00 | 15:10-16:10 |
       | **Lektor** | Jacob       | Filip       | John        | John        | Jacob       | Filip       |
-      | **Stav**   | *obsazeno*  | *obsazeno*  | *obsazeno*  | **volné**   | *obsazeno*  | **volné**   |
+      | **Stav**   | *obsazeno*  | *obsazeno*  | *obsazeno*  | *obsazeno*  | *obsazeno*  | **volné**   |
       {: .table .table-striped }
 
       U obsazených kurzů přijímáme náhradníky. 
