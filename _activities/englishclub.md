@@ -44,6 +44,23 @@ English Club jsou konverzační kurzy angličtiny s rodilými mluvčími Jacobem
 
 A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si s nimi procvičovat angličtinu i v odpoledních konverzačních kroužcích. 
 
+Všechny kroužky anglické konverzace začínají v týdnu od 3. října 2022. 
+
+Konají se v těchto časech a učebnách:
+
+| Skupina | třídy | den     | čas          | lektor  | učebna |
+|---------|-------|---------|--------------|---------|--------|
+| 1       | 4.-5. | čtvrtek | 13-14        | Jacob	 | 301    |
+| 2       | 4.-5. | čtvrtek | 14-15        | Filip	 | 302    |
+| 3       | 6.-7. | pondělí | 14-15        | John	   | 201    |
+| 4       | 6.-7. | pondělí | 15:10-16:10  | John	   | 201    |
+| 5       | 8.-9. | čtvrtek | 14:10-15:10  | Jacob	 | 301    |
+| 6       | 7.-9. | čtvrtek | 15:10–16:10  | Filip 	 | 302    |
+{: .table .table-striped }
+
+Ještě je volno v kurzu pro žáky 7.-9. tříd ve čtvrtek od 15,10-16,10 s Filipem. 
+
+
 
 
 
