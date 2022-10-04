@@ -43,9 +43,9 @@ Pokročilí C (ZŠ Řevnice, Školní 600)
 PONDĚLÍ 15:30 - 17:00 hod.  
 Začátečníci A  (ZŠ Řevnice, Školní 600)
 
-STŘEDA 14:00 - 18:00 hod.  
-Od 6. třídy, DÍLNA (v budově u hřiště Národní házené Řevnice, Sportovní 981)  
-*Bližší informace budou upřesněny.*
+STŘEDA 16:00 - 19:00 hod.  
+Od 6. třídy, DÍLNA (v budově u hřiště Národní házené Řevnice, Sportovní 981)
+[Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
 
 
 **Cena**  
