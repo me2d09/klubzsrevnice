@@ -22,4 +22,3 @@ Váš klub rodičů
 
 <!--quote-->
 
-Každá aktualita **musí mít obrázek JPEG velikosti 900x600 px**. Ten nahrát do složky \img\blog a pojmenovat bez mezer a bez háčku. Třeba aktualni_obrazek.jpeg. Název obrázku pak napsat do hlavičky (image)
