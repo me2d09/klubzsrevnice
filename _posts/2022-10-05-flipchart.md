@@ -13,12 +13,19 @@ Funguje pro kluky a holky z druhého stupně a pevně věříme, že ti, kteří
 
 Dále poptáváme:
 nepoužívaný starší funkční notebook
+
 LCD monitory
+
 klávesnice, myš
+
 sady šroubováků
+
 kleště všeho druhu
+
 organizéry na součástky, nástěnné držáky na nářadí
+
 elektronické součástky všeho druhu, arduino, raspberry Pi, displeje, tlačítka...
+
 knížky o elektronice, obrábění, 3D tisku
 
 
@@ -30,7 +37,7 @@ Pokud můžete s čímkoliv pomoct, tak se nám neváhejte ozvat!
 
 Děkujeme 
 
-Váš klub rodičů
+Robotika Řevnice
 
 <!--quote-->
 
