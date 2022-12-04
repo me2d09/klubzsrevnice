@@ -1,6 +1,6 @@
 ---
 layout: post   # to tu musí být
-title:  Duševní zdraví ve Dřeváku  # nadpis, max cca 30 znaků (vyzkoušet)
+title:  Duševní zdraví dětí  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea # křestní jméno autora, lze nechat prázdné
 image: /img/blog/duse.jpg  # jméno obrázku včetně adresáře, velikost 900x600
 
