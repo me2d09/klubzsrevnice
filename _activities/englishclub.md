@@ -22,6 +22,7 @@ faq:
   - nadpis: Kurzovné
     text: |
       6.-7. třídy (10 lekcí) 1 500 pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 1 700 Kč pro nečleny.
+      
       4.-5., 8.-9. třídy (15 lekcí) 2 200 pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny. Ceny jsou za pololetí.
       
 teachers:  # Kdo jsou naši lektoři?
