@@ -14,8 +14,8 @@ faq:
   - nadpis: Jak často kroužek probíhá a kolik stojí?
     text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč), získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Během školního roku 2022/23 začne pro pokročilé děti fungovat dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená bude každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy mohou tvořit vlastní projekty. 
   - nadpis: Jak přihlásit dítě do kroužku?
-    text: Momentálně máme plně obsazenou kapacitu a přijímáme náhradníky. [Přihláška zde](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform?usp=pp_url)
-people:
+    text: Právě jsme ukončili kroužky ve školním roce 202/23. Pro přihlašování na příští školní rok sledujte prosím FB a web Klubu.
+    people:
   - pavel
   - petr
   - milan
@@ -34,28 +34,4 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 #### Časový rozpis kroužků v roce 2022/23
 
-V letošním roce probíhají kroužky Robotika je hra A,B,C. Pro děti z druhého stupně plánujeme otevřít dílnu. Kroužky začínají v týdnu od 26. 9. 2022 a končí v týdnu od 29. 5. 2023 (2. pololetí začíná 6. února 2023). 
-
-PONDĚLÍ 14:00 - 15:30 hod.  
-Pokročilí B (ZŠ Řevnice, Školní 600)  
-Pokročilí C (ZŠ Řevnice, Školní 600)
-
-PONDĚLÍ 15:30 - 17:00 hod.  
-Začátečníci A  (ZŠ Řevnice, Školní 600)
-
-STŘEDA 16:00 - 19:00 hod.  
-Od 6. třídy, DÍLNA (v budově u hřiště Národní házené Řevnice, Sportovní 981)
-[Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
-
-
-**Cena**  
-Cena za pololetí činí 2 000 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice.
-Pro ostatní zájemce je cena 2 500 Kč. Kroužek trvá 90 minut.
-
-Platbu za kroužek je možné zaplatit za 1 pololetí (2 000 Kč/2 500 Kč). V případě, že nebude dítě v 2. pololetí pokračovat, dejte nám prosím vědět na e-mail: noskovaj@centrum.cz, děkujeme. 
-
-**Platební údaje:**  
-Číslo transparentního účtu: 2200861197 / 2010  
-VS: 0001  
-Majitel účtu: Klub rodičů a přátel školy ZŠ Řevnice, z.s.
-
+Ve školním roce 2022/23 probíhaly kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně jsme otevřeli dílnu D na házené nad dětským hřištěm, která byla otevřená každou středu od 14 do 18 hod. [Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
