@@ -162,73 +162,53 @@ hidejumbo: true
      <!-- /container -->  
      <!-- section -->
      <section id="about-home" class="container-fluid pb-0">
-        <div class="container">
-           <!-- section heading -->  
-           <div class="section-heading text-center">
-              <h2>{{ site.data.home.kdojsme.nadpis }}</h2>
-              <p class="subtitle">{{ site.data.home.kdojsme.podtitul }}</p>
-           </div>
-           <!-- /section-heading -->
-           <div class="row">
-              <div class="col-lg-7 ">
-                 <h3>Náš cíl</h3>
-                  <p class="mt-4 res-margin">
-                     {{ site.data.home.kdojsme.text | markdownify }}
-                  
+      <div class="container">
+         <!-- section heading -->  
+         <div class="section-heading text-center">
+            <h2>Aktuality</h2>
+            <p class="subtitle">Co je nového?</p>
+         </div>
+         <!-- /section-heading -->
+         <!-- blog carousel -->
+         <div class="carousel-3items owl-carousel owl-theme mt-0">
+            {% for p in site.posts limit: 6 %}
+            <div class="blog-box">
+               <!-- image -->
+               <a href="{{ p.url }}">
+                  <div class="image"><img src="{{ p.image | default: '/img/blog/blogstyle2-1.jpg' }}" alt=""/></div>
+               </a>
+               <!-- blog-box-caption -->
+               <div class="blog-box-caption">
+                  <!-- date -->
+                  {% assign m = p.date | date: "%-m" | minus: 1 %}
+                  <div class="date"><span class="day">{{ p.date | date: "%e" }}</span><span class="month">{{ site.data.cs.months[m] }}</span></div>
+                  <a href="{{ p.url }}">
+                     <h4>{{ p.title }}</h4>
+                  </a>
+                  <!-- /link -->
+                  <p>
+                     {{ p.excerpt }}
                   </p>
-                 <a href="/lide" class="btn btn-secondary ">naši lidé</a>
-              </div>
-              <!-- /col-lg -->
-              <div class="col-lg-5 res-margin">
-                 <!-- image -->
-                 <img class="img-fluid rounded" src="/img/about/about2.jpg" alt="">
-                 <!-- ornament starts-->
-                 <div class="ornament-rainbow" data-aos="zoom-out"></div>
-              </div>
-              <!-- /col-lg -->
-           </div>
-           <!-- /row -->
-           {% comment %}
-           <h3 class="mt-5 text-center">Co na to říkají rodiče a učitelé?</h3>
-           <div class="row">
-              <!-- testimonials -->
-              <!-- testimonial carousel -->
-              <div class="carousel-2items owl-carousel owl-theme col-md-12">
-                 <!-- testimonial -->
-                 <div class="testimonial">
-                    <div class="content">
-                       <p class="description">
-                          Klub rodičů mi změnil život. Už nikdy nebudu jako dřív.    
-                       </p>
-                    </div>
-                    <!-- /content -->
-                    <div class="testimonial-review">
-                       <h5 class="testimonial-title">Ludmila Lázničková</h5>
-                       <span class="post">rodič</span>
-                    </div>
-                    <!-- /testimonial-review -->
-                 </div>
-                 <!-- /testimonial -->
-                 <!-- testimonial -->
-                 <div class="testimonial">
-                    <div class="content">
-                       <p class="description">
-                          Výuka s anglickým lektorem funguje výborně, baví to mě u děti. 
-                       </p>
-                    </div>
-                    <!-- /content -->
-                    <div class="testimonial-review">
-                       <h5 class="testimonial-title">Drahomíra Dušičková</h5>
-                       <span class="post">učitelka</span>
-                    </div>
-                    <!-- /testimonial-review -->
-                 </div>
-                 <!-- /testimonial -->
-              </div>
-              <!-- /owl-testimonial -->      
-           </div>
-           <!-- /row -->
-           {% endcomment %}
+               </div>
+               <!-- blog-box-footer -->
+               <div class="blog-box-footer">
+                  {% if p.autor %}
+                  {% assign autorurl = "/lide/" | append: p.autor %}
+                  {% assign autor = site.people 
+                   | where_exp:"l", "l.url == autorurl" 
+                   | first %}
+                  <div class="author">Napsal{{ autor.gender | default: "a" }}: <a href="{{ autorurl }}"><i class="fas fa-user"></i>{{ autor.jmeno }}</a></div>
+                  {% endif %}
+                  <!-- Button -->	 
+                  <div class="text-center col-md-12">
+                     <a href="{{ p.url }}" class="btn btn-primary ">více</a>
+                  </div>
+               </div>
+               <!-- /blog-box-footer -->
+            </div>
+            {% endfor %}
+         </div>
+         <!-- /owl-carousel -->
         </div>
         <!-- /container-->
         <!-- whale in water scene -->
@@ -298,53 +278,73 @@ hidejumbo: true
      <section id="blogprev-home" data-100-bottom="background-position: 0% 120%;"
         data-top-bottom="background-position: 0% 100%;">
         <div class="container">
-           <!-- section heading -->  
-           <div class="section-heading text-center">
-              <h2>Aktuality</h2>
-              <p class="subtitle">Co je nového?</p>
-           </div>
-           <!-- /section-heading -->
-           <!-- blog carousel -->
-           <div class="carousel-3items owl-carousel owl-theme mt-0">
-              {% for p in site.posts limit: 6 %}
-              <div class="blog-box">
-                 <!-- image -->
-                 <a href="{{ p.url }}">
-                    <div class="image"><img src="{{ p.image | default: '/img/blog/blogstyle2-1.jpg' }}" alt=""/></div>
-                 </a>
-                 <!-- blog-box-caption -->
-                 <div class="blog-box-caption">
-                    <!-- date -->
-                    {% assign m = p.date | date: "%-m" | minus: 1 %}
-                    <div class="date"><span class="day">{{ p.date | date: "%e" }}</span><span class="month">{{ site.data.cs.months[m] }}</span></div>
-                    <a href="{{ p.url }}">
-                       <h4>{{ p.title }}</h4>
-                    </a>
-                    <!-- /link -->
-                    <p>
-                       {{ p.excerpt }}
-                    </p>
-                 </div>
-                 <!-- blog-box-footer -->
-                 <div class="blog-box-footer">
-                    {% if p.autor %}
-                    {% assign autorurl = "/lide/" | append: p.autor %}
-                    {% assign autor = site.people 
-                     | where_exp:"l", "l.url == autorurl" 
-                     | first %}
-                    <div class="author">Napsal{{ autor.gender | default: "a" }}: <a href="{{ autorurl }}"><i class="fas fa-user"></i>{{ autor.jmeno }}</a></div>
-                    {% endif %}
-                    <!-- Button -->	 
-                    <div class="text-center col-md-12">
-                       <a href="{{ p.url }}" class="btn btn-primary ">více</a>
-                    </div>
-                 </div>
-                 <!-- /blog-box-footer -->
-              </div>
-              {% endfor %}
-           </div>
-           <!-- /owl-carousel -->
-        </div>
+         <!-- section heading -->  
+         <div class="section-heading text-center">
+            <h2>{{ site.data.home.kdojsme.nadpis }}</h2>
+            <p class="subtitle">{{ site.data.home.kdojsme.podtitul }}</p>
+         </div>
+         <!-- /section-heading -->
+         <div class="row">
+            <div class="col-lg-7 ">
+               <h3>Náš cíl</h3>
+                <p class="mt-4 res-margin">
+                   {{ site.data.home.kdojsme.text | markdownify }}
+                
+                </p>
+               <a href="/lide" class="btn btn-secondary ">naši lidé</a>
+            </div>
+            <!-- /col-lg -->
+            <div class="col-lg-5 res-margin">
+               <!-- image -->
+               <img class="img-fluid rounded" src="/img/about/about2.jpg" alt="">
+               <!-- ornament starts-->
+               <div class="ornament-rainbow" data-aos="zoom-out"></div>
+            </div>
+            <!-- /col-lg -->
+         </div>
+         <!-- /row -->
+         {% comment %}
+         <h3 class="mt-5 text-center">Co na to říkají rodiče a učitelé?</h3>
+         <div class="row">
+            <!-- testimonials -->
+            <!-- testimonial carousel -->
+            <div class="carousel-2items owl-carousel owl-theme col-md-12">
+               <!-- testimonial -->
+               <div class="testimonial">
+                  <div class="content">
+                     <p class="description">
+                        Klub rodičů mi změnil život. Už nikdy nebudu jako dřív.    
+                     </p>
+                  </div>
+                  <!-- /content -->
+                  <div class="testimonial-review">
+                     <h5 class="testimonial-title">Ludmila Lázničková</h5>
+                     <span class="post">rodič</span>
+                  </div>
+                  <!-- /testimonial-review -->
+               </div>
+               <!-- /testimonial -->
+               <!-- testimonial -->
+               <div class="testimonial">
+                  <div class="content">
+                     <p class="description">
+                        Výuka s anglickým lektorem funguje výborně, baví to mě u děti. 
+                     </p>
+                  </div>
+                  <!-- /content -->
+                  <div class="testimonial-review">
+                     <h5 class="testimonial-title">Drahomíra Dušičková</h5>
+                     <span class="post">učitelka</span>
+                  </div>
+                  <!-- /testimonial-review -->
+               </div>
+               <!-- /testimonial -->
+            </div>
+            <!-- /owl-testimonial -->      
+         </div>
+         <!-- /row -->
+         {% endcomment %}
+      </div>
         <!-- /container -->
      </section>
      <!-- /section ends-->
