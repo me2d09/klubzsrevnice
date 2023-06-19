@@ -8,7 +8,7 @@ people:
   - lucie
 ---
 Jedná se o projekt spolupráce mezi školou a rodiči, jehož cílem je zprostředkovat dětem konkrétní profesní příběhy, studijní nebo pracovní zkušenosti a pomoci jim při úvahách nad tím, co chtějí studovat a čím se třeba budou jednou živit. Klub nabídl škole pomoc s vytvořením tzv. *databáze dobrovolníků* z řad rodičů. 
-
+<!--vice-->
 Všichni rodiče, kteří projevili o tuto formu spolupráce zájem, byli obesláni s prosbou o vyplnění formuláře, který obsahuje základní údaje o jejich profesi, kontaktní údaje, nabízenou formu spolupráce a časové možnosti. Na základě těchto informací jsme vytvořili databázi rodičů – dobrovolníků. 
 
 Učitelé, mohou vybraného dobrovolníka kontaktovat sami napřímo, příp. mohou o pomoc s organizací požádat zástupcem Klubu.

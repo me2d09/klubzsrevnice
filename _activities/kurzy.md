@@ -13,6 +13,8 @@ people:
 ---
 Ve spolupráci s dobřichovickým DoDo domkem plánujeme opět otevřít v naší řevnické škole přípravné kurzy na přijímačky, a to pro 5., 7. a 9. ročníky.
 
+<!--vice-->
+
 > Deváťáky jsme se navíc rozhodli podpořit v jejich studijním úsilí finančním příspěvkem ve výši 500,- Kč/ student.
 
 Obsah a náplň kurzu naleznete zde:
