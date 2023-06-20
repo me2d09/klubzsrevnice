@@ -14,7 +14,7 @@ faq:
   - nadpis: Jak často kroužek probíhá a kolik stojí?
     text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč), získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Během školního roku 2022/23 začne pro pokročilé děti fungovat dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená bude každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy mohou tvořit vlastní projekty. 
   - nadpis: Jak přihlásit dítě do kroužku?
-    text: Právě jsme ukončili kroužky ve školním roce 202/23. Pro přihlašování na příští školní rok sledujte prosím FB a web Klubu.
+    text: Právě jsme ukončili kroužky ve školním roce 2022/23. Pro přihlašování na příští školní rok sledujte prosím FB a web Klubu.
     people:
   - pavel
   - petr
