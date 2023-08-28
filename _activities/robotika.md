@@ -38,4 +38,4 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 #### Časový rozpis kroužků v roce 2023/24
 
-Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. [Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
+Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
