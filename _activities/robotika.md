@@ -7,14 +7,18 @@ images:
   - robotika3.jpg
   - robotika4.jpg
 faq:
-  - nadpis: Pro jak staré děti je kroužek určen?
-    text: Kroužek je vhodný pro děti od 2. třídy, momentálně máme otevřené celkem 3 kroužky, které navštěvují děti od 2. třídy. Pro děti od 6. třídy je vhodná dílna, kde se za pomoci lektorů může pracovat na vlastních projektech.
+  - nadpis: Pro jak staré děti je kroužek určen a kdy se koná?
+    text: Kroužek je vhodný pro děti od 2. třídy, v roce 2023/24 otevřeme celkem 3 kroužky:
+    pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
+    pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
+    pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
+ Pro děti od 6. třídy je vhodná dílna, kde se bude s podporou lektorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 14:00 do 17:00 hod.
   - nadpis: Jaké vybavení se na kroužcích využívá?
-    text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas hrajeme Minecraft Education.
-  - nadpis: Jak často kroužek probíhá a kolik stojí?
-    text: Kroužky jsou každé pondělí v budově druhého stupně řevnické školy. Kroužek stojí 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč), získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Během školního roku 2022/23 začne pro pokročilé děti fungovat dílna v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Otevřená bude každou středu od 14:00 do 18:00 hod. S podporou lektora tu děti od 6. třídy mohou tvořit vlastní projekty. 
+    text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
+  - nadpis: Kolik kroužek stojí?
+    text: Cena kroužku je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem.  
   - nadpis: Jak přihlásit dítě do kroužku?
-    text: Právě jsme ukončili kroužky ve školním roce 2022/23. Pro přihlašování na příští školní rok sledujte prosím FB a web Klubu.
+    text: Link na přihlašovací formulář zveřejníme v týdnu od 28. 8. 2023.
     people:
   - pavel
   - petr
@@ -32,6 +36,6 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
-#### Časový rozpis kroužků v roce 2022/23
+#### Časový rozpis kroužků v roce 2023/24
 
-Ve školním roce 2022/23 probíhaly kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně jsme otevřeli dílnu D na házené nad dětským hřištěm, která byla otevřená každou středu od 14 do 18 hod. [Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
+Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. [Více informace o dílně ke stažení v PDF](/docs/dilna.pdf).
