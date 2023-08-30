@@ -22,7 +22,7 @@ faq:
     text: Cena kroužku je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem.  
   - nadpis: Jak přihlásit dítě do kroužku?
     text: Link na přihlašovací formulář zveřejníme v týdnu od 28. 8. 2023.
-    people:
+people:
   - pavel
   - petr
   - milan
