@@ -15,7 +15,7 @@ faq:
        - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
        - pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
  
-      Pro děti od 6. třídy je vhodná dílna, kde se bude s podporou lektorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 14:00 do 17:00 hod.
+      Pro děti od 6. třídy je vhodná dílna, kde se bude s podporou lektorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 15:00 do 17:00 hod (občas do 18:00).
   - nadpis: Jaké vybavení se na kroužcích využívá?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
   - nadpis: Kolik kroužek stojí?
