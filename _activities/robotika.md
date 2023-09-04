@@ -22,9 +22,10 @@ faq:
   - nadpis: Kolik kroužek stojí?
     text: Cena kroužku je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1. 
   - nadpis: Jak přihlásit dítě do kroužku?
-    text: Link na přihlašovací formulář zde:
-    https://docs.google.com/forms/d/1abB2rbUHxywVJt0U_H6g7u5WRO0vcIuzB79Nuj-_zEk/edit
-    Zájem o kroužky robotiky je velký a máme bohužel omezenou kapacitu, kterou se snažíme navýšit. Odeslání přihlášky neznamená, že jsme mohli Vaše dítě do kroužku přijmout. Potvrzením o přijetí je zařazení čísla rodiče do WhatsApp informační skupiny ke kroužku, kde sdílíme organizační informace a informace k platbě. Děti, které by se do kroužku nedostaly, evidujeme jako náhradníky a v případě uvolnění místa se ozveme.   
+    text: |
+      Link na přihlašovací formulář zde:
+      https://docs.google.com/forms/d/1abB2rbUHxywVJt0U_H6g7u5WRO0vcIuzB79Nuj-_zEk/edit
+      Zájem o kroužky robotiky je velký a máme bohužel omezenou kapacitu, kterou se snažíme navýšit. Odeslání přihlášky neznamená, že jsme mohli Vaše dítě do kroužku přijmout. Potvrzením o přijetí je zařazení čísla rodiče do WhatsApp informační skupiny ke kroužku, kde sdílíme organizační informace a informace k platbě. Děti, které by se do kroužku nedostaly, evidujeme jako náhradníky a v případě uvolnění místa se ozveme.   
 people:
   - pavel
   - petr
