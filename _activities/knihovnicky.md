@@ -5,23 +5,35 @@ shorttitle: Chodbové knihovničky
 people:
   - hanka
 ---
-Zařídili jsme knihovnicky a plníme je knížkami .
+
+
+Chodbové knihovničky v budově prvního stupně v Revoluční ulici slouží všem dětem ze školy. V současné době tam děti najdou knížky, které škole věnovalo nakladatelství Albatros. 
+
+
+Rádi bychom, aby nabídka byla opravdu pestrá, a proto jsme ve spolupráci s Janou Barnovou vytvořili výběr těch nejlepších knížek na trhu a tyto knížky ve spolupráci s rodiči zakoupili. 
+
+Líbí se vám nějaká knížka ze seznamu a rádi byste ji škole věnovali? Nebo ji máte doma a už ji nevyužijete? 
+Pokud ano, tak napište k dané knížce do sloupečku „Rezervace“ svoje jméno a knížku přineste. Uděláte tím dobrý skutek a dětem velkou radost.
+
+Seznam knížek
 
 <!--vice-->
 
-#### Seznam knížek
+#### Co by se například hodilo
+
+
 
 | Název                                 | Autor                           |
 |---------------------------------------|---------------------------------|
-| O loupežníku Rumcajsovi               | Václav Čtvrtek                  |
-| Rychlé šípy                           | Jaroslav Foglar                 |
-| Krtek                                 | Zdeněk Miler                    |
-| Bob a Bobek                           | Václav Čtvrtek                  |
-| Ferda mravenec                        | Ondřej Sekora                   |
-| Bylo nás pět                          | Karel Poláček                   |
-| Zlatý máj                             | Karel Čapek                     |
-| Dobrodružství Robinsona Crusoe        | Daniel Defoe                    |
-| Popelka                               | Božena Němcová                  |
-| O princezně Jasněnce a létajícím ševci | Kateřina Tučková                |
-| Cirkus Humberto                       | Eduard Bass                       |
+| Atom v kupce sena                     | Mike Barfield                   |
+| Pikunikku. Japonský piknik            | Monika Baudišová                |
+| Krajiny domova                        | Václav Cílek                    |
+| Klárka a 11 babiček                   | Olga Černá                      |
+| Domov pro Marťany                     | Martina Drijverová              |
+| Kočka v Zemi čísel                    | Ivar Ekeland                    |
+| Lumír včelaří                         | Aneta Františka Holasová        |
+| Proč chtěl ptakopysk do Solopisk      | Daniela Kalinová                |
+| Vynalezárium                          | Robin Král                      |
+| Zprávy z pelíšku                      | Daniela Krolupperová            |
+| knihy                                 | Roald Dahl                      |
 {: .table .table-striped }
