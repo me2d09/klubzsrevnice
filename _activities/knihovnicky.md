@@ -15,12 +15,14 @@ Rádi bychom, aby nabídka byla opravdu pestrá, a proto jsme ve spolupráci s J
 Líbí se vám nějaká knížka ze seznamu a rádi byste ji škole věnovali? Nebo ji máte doma a už ji nevyužijete? 
 Pokud ano, tak napište k dané knížce do sloupečku „Rezervace“ svoje jméno a knížku přineste. Uděláte tím dobrý skutek a dětem velkou radost.
 
-#### Seznam knížek
+#### Seznam knížek pro rezervaci najdete na tomto odkazu:
+
+[Chodbové knihovničky](https://drive.google.com/file/d/1QbZJ3cJoJfM_ioPAsNtVL0W3PmSiA-Ku/view?usp=sharing/)
 
 
 <!--vice-->
 
-#### Co by se například hodilo
+#### Výběr ze seznamu
 
 
 
