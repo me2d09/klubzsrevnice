@@ -6,7 +6,6 @@ people:
   - hanka
 ---
 
-
 Chodbové knihovničky v budově prvního stupně v Revoluční ulici slouží všem dětem ze školy. V současné době tam děti najdou knížky, které škole věnovalo nakladatelství Albatros. 
 
 
@@ -17,13 +16,11 @@ Pokud ano, tak napište k dané knížce do sloupečku „Rezervace“ svoje jm�
 
 #### Seznam knížek pro rezervaci najdete na tomto odkazu:
 
-[Chodbové knihovničky](https://drive.google.com/file/d/1QbZJ3cJoJfM_ioPAsNtVL0W3PmSiA-Ku/view?usp=sharing/)
-
+[Chodbové knihovničky](https://docs.google.com/spreadsheets/d/1SPAaFC__u6ZOz3shr32gCNuke6E9cou59ieNZFrEyvw/edit)
 
 <!--vice-->
 
 #### Výběr ze seznamu
-
 
 
 | Název                                 | Autor                           |
