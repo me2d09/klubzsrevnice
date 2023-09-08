@@ -5,25 +5,29 @@ title: English Club
 shorttitle: English Club
 faq:
   - nadpis: Kde se kurzy konají? 
-    text: Všechny lekce se konají v budově ZŠ Řevnice, Školní 600. 
+    text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600. Konkrétní učebnu upřesníme před zahájením kurzů. 
   - nadpis: Jak se přihlásit?
-    text: Přihlašování bude doplněno během září 2023.
-#  - nadpis: Kdy kurzy začínají?
-#    text: |
-#      Začátek kurzů ve druhém pololetí 2022/23: 
-#       - 6.-7. třídy: po 6. února
-#       - 4.-5., 8.-9. třídy: čt 23. února
+    text: |
+      Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSf-OhP-dppwu9H5PUFCWZi-1vV_w6bobsuwd7ZWFag9iGCjzQ/viewform?usp=pp_url).
+
+      Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu (maximální počet dětí v kurzu je deset).  
+      Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
+
+  - nadpis: Kdy kurzy začínají?
+    text: |
+      Kurzy začínají v týdnu od 2. října 2023.
   - nadpis: Kolik dětí je ve skupině? 
     text: |
-      Kurz bude otevřen při minimálním počtu 6 dětí. 
-      Maximální počet dětí je 10. 
-      Pokud se děti domluví s kamarády a vytvoří si skupinku o 6–10 dětech, 
-      můžeme pomoci s otevřením dalších kurzů.  
-#  - nadpis: Kurzovné
-#    text: |
-#      6.-7. třídy (10 lekcí) 1 500 pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 1 700 Kč pro nečleny.
-#      
-#      4.-5., 8.-9. třídy (15 lekcí) 2 200 pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny. Ceny jsou za pololetí.
+      Maximální počet dětí v kurzu je deset. Kurz bude otevřen při minimálním počtu sedmi dětí. 
+  - nadpis: Kolik kurzy stojí? 
+    text: |
+      Cena kurzu je 2 200 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
+
+      Platební údaje:  
+      Číslo transparentního účtu: 2200861197 / 2010  
+      VS: 0002  
+      Zpráva pro příjemce: English Club, název dítěte  
+      Majitel účtu: Klub rodičů a přátel školy ZŠ Řevnice, z.s.
       
 teachers:  # Kdo jsou naši lektoři?
   - john
@@ -36,23 +40,16 @@ English Club jsou konverzační kurzy angličtiny s rodilými mluvčími Jacobem
 
 A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si s nimi procvičovat angličtinu i v odpoledních konverzačních kroužcích. 
 
-#### Školní rok 2023/24
+#### Jak kurzy nabízíme?
 
-Kurzy začnou na začátku října 2023. Kurzy koordinujeme s CLIL rozvrhem lektorů, který budeme znám na začátku září. V první polovině září zveřejníme rozpis konkrétních kurzů s informací, jak se přihlásit. Děkujeme za pochopení!
-
-{% comment %} 
-Konají se v těchto časech a učebnách:
-
-| Skupina | třídy | den     | čas          | lektor  | učebna | kapacita |
-|---------|-------|---------|--------------|---------|--------|----------|
-| 1       | 4.-5. | čtvrtek | 13-14        | Jacob	 | 301    | plno     |
-| 2       | 4.-5. | čtvrtek | 14-15        | Filip	 | 302    | volno    |
-| 3       | 6.-7. | pondělí | 14-15        | John	   | 201    | volno    |
-| 4       | 6.-7. | pondělí | 15:10-16:10  | John	   | 201    | volno    |
-| 5       | 8.-9. | čtvrtek | 14:10-15:10  | Jacob	 | 301    | volno    |
+| Skupina | třídy      | den     | čas          | lektor | učebna          | kapacita |
+|---------|------------|---------|--------------|--------|-----------------|----------|
+| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | bude upřesněno  | volno    |
+| 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | bude upřesněno  | volno    |
+| 3       | 4.-5.      | pondělí | 14:10-15:10  | Jacob  | bude upřesněno  | volno    |
+| 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | bude upřesněno  | volno    |
+| 5       | 6.-9.      | čtvrtek | 14:00-15:00  | Filip	 | bude upřesněno  | volno    |
 {: .table .table-striped }
 
-Začátek kurzů ve druhém pololetí 2022/23: 
- - 6.-7. třídy: po 6. února
- - 4.-5., 8.-9. třídy: čt 23. 
- {% endcomment %}
+Kurzy začínají v týdnu od 2. října 2023.
+ 
