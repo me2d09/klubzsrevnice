@@ -18,7 +18,7 @@ faq:
       Kurzy začínají v týdnu od 2. října 2023.
   - nadpis: Kolik dětí je ve skupině? 
     text: |
-      Maximální počet dětí v kurzu je deset. Kurz bude otevřen při minimálním počtu sedmi dětí. 
+      Maximální počet dětí v kurzu je deset. Kurz bude otevřen při minimálním počtu šesti dětí. 
   - nadpis: Kolik kurzy stojí? 
     text: |
       Cena kurzu je 2 200 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
@@ -46,7 +46,7 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 |---------|------------|---------|--------------|--------|-----------------|----------|
 | 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | bude upřesněno  | volno    |
 | 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | bude upřesněno  | volno    |
-| 3       | 4.-5.      | pondělí | 14:10-15:10  | Jacob  | bude upřesněno  | volno    |
+| 3       | 4.-5.      | čtvrtek | 14:10-15:10  | Jacob  | bude upřesněno  | volno    |
 | 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | bude upřesněno  | volno    |
 | 5       | 6.-9.      | čtvrtek | 14:00-15:00  | Filip	 | bude upřesněno  | volno    |
 {: .table .table-striped }
