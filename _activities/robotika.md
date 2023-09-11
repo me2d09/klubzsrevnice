@@ -14,8 +14,9 @@ faq:
        - pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
        - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
        - pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
+       - pro pokročilé od 6. třídy D, pondělí 16:00 - 17:30 hod. lektor Vojtěch Horný
  
-      Pro děti od 6. třídy je možné navštěvovat dílnu, kde se bude s podporou mentorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 15:00 do 17:00 hod (občas do 18:00). Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
+      Pro děti od 6. třídy je možné navštěvovat kroužek D vedený lektorem nebo dílnu, kde se bude s podporou mentorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 15:00 do 17:00 hod (občas do 18:00). Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
       Kroužky i dílna začnou fungovat od pondělí 25. 9. 2023.
   - nadpis: Jaké vybavení se na kroužcích využívá?
@@ -47,4 +48,4 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 #### Časový rozpis kroužků v roce 2023/24
 
-Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A,B,C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
+Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A, B, C a D v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
