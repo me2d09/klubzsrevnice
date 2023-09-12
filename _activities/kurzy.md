@@ -18,11 +18,18 @@ Ve spolupráci s dobřichovickým DoDo domkem plánujeme opět otevřít v naš�
 > Deváťáky jsme se navíc rozhodli podpořit v jejich studijním úsilí finančním příspěvkem ve výši 500,- Kč/ student.
 
 Obsah a náplň kurzu naleznete zde:
- - [Matematika](https://www.dobrichovickydomek.cz/pripravky-matematika/)
- - [Čeština](https://www.dobrichovickydomek.cz/pripravky-cestina/)
+ - [Matematika](https://www.dobrichovickydomek.cz)
+ - [Čeština](https://www.dobrichovickydomek.cz)
 
+Kurzy budou probíhat od 9.10. vždy v pondělí a úterý dle rozvrhu. 
+
+5. třída – úterý, 14:00-15:00 M, 15:15-16:15 ČJ
+7. třída – pondělí, 14:00-15:00 M, 15:15-16:15 ČJ
+9. třída – pondělí 16:30-17:30 M, úterý 16:30-17:30 ČJ
+
+Kurz má 20 lekcí a jednotlivý předmět stojí 3400,-.
 Lektorkou kurzu bude stejně jako v loňském roce paní Libuše Stupavská.
 
-Kurzy se budou konat v pondělí a v úterý. Čas kurzů bude upřesněn v září ve vazbě na aktuální rozvrh pro šk. r. 2023/2024. 
+ 
 
 Bude-li mít Vaše dítě zájem kurz navštěvovat, doporučujeme vyplnit přihlášku již nyní – kurzovné se hradí v září. Máte-li dítě v 9. třídě, dejte nám vědět, přispějeme Vám na kurzovné částkou 500,- Kč.
