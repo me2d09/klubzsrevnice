@@ -6,13 +6,24 @@ people:
   - hanka
 ---
 
-Chodbové knihovničky v budově prvního stupně v Revoluční ulici slouží všem dětem ze školy. V současné době tam děti najdou knížky, které škole věnovalo nakladatelství Albatros. 
+ZŠ Řevnice ve spolupráci Klubem rodičů připravila projekt, jehož cílem je vzbudit či
+prohloubit zájem dětí o knihy a jejich četbu. Formou Knihovniček na prvním stupni ZŠ bychom chtěli dát
+dětem příležitost seznámit se s co možná největším počtem knih z různých zájmových oblastí.
+Jako první zaplnily Knihovničky knihy darované Klubem rodičů a přátel školy.
 
 
-Rádi bychom, aby nabídka byla opravdu pestrá, a proto jsme ve spolupráci s Janou Barnovou vytvořili výběr těch nejlepších knížek na trhu a tyto knížky ve spolupráci s rodiči zakoupili. 
+Naším společným cílem je zachovat projekt Knihovničky živý, postupně knihy doplňovat a obměňovat.
+Základní škola připravila přiložený seznam knih, který jistě osloví kdejakého rodiče a žáka. Pokud Vás
+nějaká kniha zaujala, budeme rádi, pokud si ji zakoupíte domů a po přečtení ji věnujete škole do projektu
+Knihovničky. Díky tomu se budou moci z knihy těšit i další děti. Pokud do knihy vložíte své věnování,
+budeme rádi.
 
-Líbí se vám nějaká knížka ze seznamu a rádi byste ji škole věnovali? Nebo ji máte doma a už ji nevyužijete? 
-Pokud ano, tak napište k dané knížce do sloupečku „Rezervace“ svoje jméno a knížku přineste. Uděláte tím dobrý skutek a dětem velkou radost.
+
+A teď několik praktických pravidel k zapůjčení knihy:
+- knihy z Knihovniček si mohou děti zapůjčovat domů
+- o zapůjčení knihy se evidence ve škole nepovede
+- po přečtení žák(yně) navrátí knihu do školy
+- rodiče mohou knihu do Knihovniček věnovat přes třídní učitele svých dětí
 
 #### Seznam knížek pro rezervaci najdete na tomto odkazu:
 
