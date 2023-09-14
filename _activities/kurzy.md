@@ -24,11 +24,11 @@ Obsah a náplň kurzu naleznete zde:
 Kurzy budou probíhat od 9.10. vždy v pondělí a úterý dle rozvrhu. 
 
 
-Pátá třída – úterý, 14:00-15:00 M, 15:15-16:15 ČJ
+**Pátá třída – úterý, 14:00-15:00 M, 15:15-16:15 ČJ**
 
-Sedmá třída – pondělí, 14:00-15:00 M, 15:15-16:15 ČJ
+**Sedmá třída – pondělí, 14:00-15:00 M, 15:15-16:15 ČJ**
 
-Devátá třída – pondělí 16:30-17:30 M, úterý 16:30-17:30 ČJ
+**Devátá třída – pondělí 16:30-17:30 M, úterý 16:30-17:30 ČJ**
 
 
 Kurz má 20 lekcí a jednotlivý předmět stojí 3400,-.
