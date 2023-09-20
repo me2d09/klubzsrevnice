@@ -44,8 +44,8 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 
 | Skupina | třídy      | den     | čas          | lektor | učebna          | kapacita |
 |---------|------------|---------|--------------|--------|-----------------|----------|
-| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | bude upřesněno  | plno    |
-| 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | bude upřesněno  | volno    |
+| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | bude upřesněno  | obsazeno    |
+| 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | bude upřesněno  | obsazeno |
 | 3       | 4.-5.      | čtvrtek | 14:10-15:10  | Jacob  | bude upřesněno  | volno    |
 | 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | bude upřesněno  | volno    |
 | 5       | 6.-9.      | čtvrtek | 14:00-15:00  | Filip	 | bude upřesněno  | volno    |
