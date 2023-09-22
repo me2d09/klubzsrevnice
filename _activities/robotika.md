@@ -9,7 +9,7 @@ images:
 faq:
   - nadpis: Pro jak staré děti je kroužek určen a kdy se koná?
     text: |
-      Kroužek je vhodný pro děti od 2. třídy, v roce 2023/24 otevřeme celkem 3 kroužky:
+      Kroužek je vhodný pro děti od 2. třídy, v roce 2023/24 otevřeme celkem 4 kroužky:
         
        - pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
        - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
