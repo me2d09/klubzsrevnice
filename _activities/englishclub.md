@@ -44,11 +44,11 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 
 | Skupina | třídy      | den     | čas          | lektor | učebna          | kapacita |
 |---------|------------|---------|--------------|--------|-----------------|----------|
-| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | bude upřesněno  | obsazeno |
-| 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | bude upřesněno  | obsazeno |
-| 3       | 4.-5.      | čtvrtek | 14:10-15:10  | Jacob  | bude upřesněno  | obsazeno |
-| 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | bude upřesněno  | volno    |
-| 5       | 6.-9.      | čtvrtek | 14:00-15:00  | Filip	 | bude upřesněno  | obsazeno |
+| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | 201, Školní 600 | obsazeno |
+| 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | 301, Školní 600 | obsazeno |
+| 3       | 4.-5.      | čtvrtek | 14:10-15:10  | Jacob  | 301, Školní 600 | obsazeno |
+| 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | 201, Školní 600 | volno    |
+| 5       | 6.-9.      | čtvrtek | 14:00-15:00  | Filip	 | 302, Školní 600 | obsazeno |
 {: .table .table-striped }
 
 Kurzy začínají v týdnu od 2. října 2023.
