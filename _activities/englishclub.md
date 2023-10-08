@@ -44,7 +44,7 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 
 | Skupina | třídy      | den     | čas          | lektor | učebna          | kapacita |
 |---------|------------|---------|--------------|--------|-----------------|----------|
-| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | 201, Školní 600 | obsazeno |
+| 1       | 3.-4. (5.) | pondělí | 13:10-14:10  | John	 | 302, Školní 600 | obsazeno |
 | 2       | 4.-5.      | čtvrtek | 13:00-14:00  | Jacob	 | 301, Školní 600 | obsazeno |
 | 3       | 4.-5.      | čtvrtek | 14:10-15:10  | Jacob  | 301, Školní 600 | obsazeno |
 | 4       | 6.-7.      | pondělí | 14:20-15:20  | John   | 201, Školní 600 | volno    |
