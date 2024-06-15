@@ -10,25 +10,24 @@ na přijímací zkoušky pro 5., 7. ročníky a také 9. ročníky!
 
 <!--vice-->
 
-Deváťáky jsme se navíc rozhodli podpořit v jejich studijním úsilí finančním příspěvkem
-ve výši 500,- Kč/ student.
 
 Náplní kurzu je práce s CERMAT testy.
 
-Přihlášení probíhá on-line zde:
+Přihlášení bude spuštěno během odpoledne 17.6. 2024  skrz system Webooker zde:
+https://www.dobrichovickydomek.cz/jak-se-prihlasit
 
-https://www.dobrichovickydomek.cz/pripravky-matematika/
 
-https://www.dobrichovickydomek.cz/pripravky-cestina/
+Pokud by odkaz nefungoval, kurz nebyl ani vypsaný,  tak nám dejte vědět, nějak to vyřešíme a budeme s vámi od září počítat :)
 
+
+Den a čas lekcí upřesníme až koncem srpna nebo začátkem školního roku, až budou známé rozvrhy tříd. Kurzy se budou konat při dostatečném počtu dětí. Zároveň je jejich kapacita omezena.  
 Lektorkou kurzu bude stejně jako v loňském roce paní Libuše Stupavská.
 
-Kurzy se budou konat v pondělí a v úterý. Čas kurzů bude upřesněn v září ve vazbě na aktuální rozvrh pro šk. r. 2023/2024.
 
 Bude-li mít Vaše dítě zájem kurz navštěvovat, doporučujeme vyplnit přihlášku již nyní
-– kurzovné se hradí v září. 
+– kurzovné se hradí v září nebo začátkem října.
 
-Máte-li dítě v 9. třídě, dejte nám vědět, přispějeme Vám na kurzovné částkou 500,- Kč.
+
 
 
 Za Klub rodičů a přátel školy ZŠ Řevnice, z.s.
