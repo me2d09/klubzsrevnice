@@ -24,7 +24,7 @@ Den a čas lekcí upřesníme až koncem srpna nebo začátkem školního roku, 
 Lektorkou kurzu bude stejně jako v loňském roce paní Libuše Stupavská.
 
 
-Bude-li mít Vaše dítě zájem kurz navštěvovat, doporučujeme vyplnit přihlášku již nyní
+Bude-li mít Vaše dítě zájem kurz navštěvovat, doporučujeme nezávazně vyplnit přihlášku již nyní
 – kurzovné se hradí v září nebo začátkem října.
 
 
