@@ -9,12 +9,11 @@ images:
 faq:
   - nadpis: Pro jak staré děti je kroužek určen a kdy se koná?
     text: |
-      Kroužek je vhodný pro děti od 2. třídy, v roce 2023/24 otevřeme celkem 4 kroužky:
+      Kroužek je vhodný pro děti od 3. třídy, v roce 2024/25 otevřeme celkem 3 kroužky:
         
        - pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
        - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
        - pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
-       - pro pokročilé od 6. třídy D, pondělí 16:00 - 17:30 hod. lektor Vojtěch Horný
  
       Pro děti od 6. třídy je možné navštěvovat kroužek D vedený lektorem nebo dílnu, kde se bude s podporou mentorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 15:00 do 17:00 hod (občas do 18:00). Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
