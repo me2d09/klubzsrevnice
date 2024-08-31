@@ -17,7 +17,7 @@ faq:
  
       Pro děti od 6. třídy je možné navštěvovat kroužek D vedený lektorem nebo dílnu, kde se bude s podporou mentorů pracovat na vlastních projektech. Dílna bude fungovat v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená bude každé pondělí od 15:00 do 17:00 hod (občas do 18:00). Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
-      Kroužky i dílna začnou fungovat od pondělí 25. 9. 2023.
+      Kroužky i dílna začnou fungovat od pondělí 23. 9. 2024.
   - nadpis: Jaké vybavení se na kroužcích využívá?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
   - nadpis: Kolik kroužek stojí?
@@ -45,6 +45,6 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
-#### Časový rozpis kroužků v roce 2023/24
+#### Časový rozpis kroužků v roce 2024/25
 
-Ve školním roce 2023/24 budou probíhat kroužky Robotika je hra A, B, C a D v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
+Ve školním roce 2024/25 budou probíhat kroužky Robotika je hra A, B, C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
