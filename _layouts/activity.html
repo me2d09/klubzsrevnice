@@ -16,6 +16,17 @@ breadlink: /aktivity
                <p>
                   {{ parts[0] }}
                </p>
+               {% if page.news-category %}
+                 {% capture now %}{{'now' | date:  "%Y-%m-%d %H:%M"  }}{% endcapture %}
+               {% assign kav = site.posts | where: "category", page.news-category | where_exp: "post", "post.event-date >= now" | sort: "event-date" %}
+               <div class="carousel-2items owl-carousel owl-theme mt-0">   
+               {% for p in kav limit: 6 %}
+                  {% include blogbox.html p=p type="event" %}
+               {% else %}
+                  <p>V budoucnu nejsou naplánovány žádné akce.</p>
+               {% endfor %}
+               </div>
+               {% endif %}
                <!-- row -->
                <div class="row">
                   {% if page.images %}
@@ -36,6 +47,26 @@ breadlink: /aktivity
                   </div>
                   <div class="col-md-12">
                      {{ parts[2] }}
+                     {% if page.news-category %}
+                        {% capture now %}{{'now' | date:  "%Y-%m-%d %H:%M"  }}{% endcapture %}
+                        {% assign kav = site.posts | where: "category", page.news-category | where_exp: "post", "post.event-date < now" | sort: "event-date" | reverse %}
+                     <table class="table table-striped">
+                        <thead>
+                           <tr>
+                              <th>Datum</th>
+                              <th>Název</th>
+                           </tr>
+                        </thead>
+                        <tbody>
+                           {% for p in kav %}
+                           <tr>
+                              <td>{{ p.event-date | date: "%-d. %-m. %Y"  }}</td>
+                              <td><a href="{{ p.url }}">{{ p.title }}</a></td>
+                           </tr>
+                           {% endfor %}
+                        </tbody>
+                     </table>
+                     {% endif %}
                   </div>
                   <!-- /col-md -->
                   {% if page.faq %}

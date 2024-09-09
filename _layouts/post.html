@@ -26,7 +26,7 @@ hidelastbread: true
              <!-- Preview Image -->
              <img src="{{ page.image }}" class="img-blog-top" alt="">
              <hr>
-             <!-- Post Content -->
+             <!-- Prepare quote -->
              {% if page.quote %}
              {% if page.quotecite %}
              {% capture quotecite %}<cite>{{ page.quotecite }}</cite>{% endcapture %}
@@ -40,6 +40,7 @@ hidelastbread: true
              </blockquote>
              {% endcapture %}
              {% endif %}
+             <!-- Post Content -->
              {{ page.content | replace: "<!--quote-->", quote }}
           </div>
           <!-- /page-with-sidebar -->

@@ -172,40 +172,7 @@ hidejumbo: true
          <!-- blog carousel -->
          <div class="carousel-3items owl-carousel owl-theme mt-0">
             {% for p in site.posts limit: 6 %}
-            <div class="blog-box">
-               <!-- image -->
-               <a href="{{ p.url }}">
-                  <div class="image"><img src="{{ p.image | default: '/img/blog/blogstyle2-1.jpg' }}" alt=""/></div>
-               </a>
-               <!-- blog-box-caption -->
-               <div class="blog-box-caption">
-                  <!-- date -->
-                  {% assign m = p.date | date: "%-m" | minus: 1 %}
-                  <div class="date"><span class="day">{{ p.date | date: "%e" }}</span><span class="month">{{ site.data.cs.months[m] }}</span></div>
-                  <a href="{{ p.url }}">
-                     <h4>{{ p.title }}</h4>
-                  </a>
-                  <!-- /link -->
-                  <p>
-                     {{ p.excerpt }}
-                  </p>
-               </div>
-               <!-- blog-box-footer -->
-               <div class="blog-box-footer">
-                  {% if p.autor %}
-                  {% assign autorurl = "/lide/" | append: p.autor %}
-                  {% assign autor = site.people 
-                   | where_exp:"l", "l.url == autorurl" 
-                   | first %}
-                  <div class="author">Napsal{{ autor.gender | default: "a" }}: <a href="{{ autorurl }}"><i class="fas fa-user"></i>{{ autor.jmeno }}</a></div>
-                  {% endif %}
-                  <!-- Button -->	 
-                  <div class="text-center col-md-12">
-                     <a href="{{ p.url }}" class="btn btn-primary ">více</a>
-                  </div>
-               </div>
-               <!-- /blog-box-footer -->
-            </div>
+               {% include blogbox.html p=p %}
             {% endfor %}
          </div>
          <!-- /owl-carousel -->

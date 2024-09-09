@@ -1,0 +1,42 @@
+{% assign p = include.p %}
+<div class="blog-box">
+    <!-- image -->
+    <a href="{{ p.url }}">
+       <div class="image"><img src="{{ p.image | default: '/img/blog/blogstyle2-1.jpg' }}" alt=""/></div>
+    </a>
+    <!-- blog-box-caption -->
+    <div class="blog-box-caption">
+       <!-- date -->
+       {% if include.type == "event" %}
+         {% assign datum = p.event-date %}
+       {% else %}
+         {% assign datum = p.date %}
+       {% endif %}
+       {% assign m = datum | date: "%-m" | minus: 1 %}
+       <div class="date"><span class="day">{{ datum | date: "%e" }}</span><span class="month">{{ site.data.cs.months[m] }}</span></div>
+       <a href="{{ p.url }}">
+          <h4>{{ p.title }}</h4>
+       </a>
+       <!-- /link -->
+       {% if include.type != "event" %}
+       <p>
+          {{ p.excerpt }}
+       </p>
+       {% endif %}
+    </div>
+    <!-- blog-box-footer -->
+    <div class="blog-box-footer">
+       {% if p.autor and  include.type != "event"  %}
+       {% assign autorurl = "/lide/" | append: p.autor %}
+       {% assign autor = site.people 
+        | where_exp:"l", "l.url == autorurl" 
+        | first %}
+       <div class="author">Napsal{{ autor.gender | default: "a" }}: <a href="{{ autorurl }}"><i class="fas fa-user"></i>{{ autor.jmeno }}</a></div>
+       {% endif %}
+       <!-- Button -->	 
+       <div class="text-center col-md-12">
+          <a href="{{ p.url }}" class="btn btn-primary ">více</a>
+       </div>
+    </div>
+    <!-- /blog-box-footer -->
+ </div>
