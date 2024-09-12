@@ -16,9 +16,6 @@ faq:
   - nadpis: Kdy kurzy začínají?
     text: |
       Kurzy začínají v týdnu od 30. září 2024.
-  - nadpis: Kolik dětí je ve skupině? 
-    text: |
-      Maximální počet dětí v kurzu je deset. 
   - nadpis: Kolik kurzy stojí? 
     text: |
       Cena kurzu je 2 200 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
@@ -42,12 +39,12 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 
 #### Jak kurzy nabízíme?
 
-| Skupina | třídy      | den     | čas          | lektor         | učebna          |
-|---------|------------|---------|--------------|----------------|-----------------|
-| 1       | 4.-5.      | pondělí | 14:00-15:00  | John Barker	   | 301             |
-| 2       | 4.-5.      | pátek   | 13:00-14:00  | Filip	Djurisic | 301             |
-| 3       | 6.-9.      | pondělí | 15:10-16:10  | John Barker	   | 301             |
-| 4       | 6.-9.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | 301             |
+| Skupina | třídy      | den     | čas          | lektor         | učebna     |         |
+|---------|------------|---------|--------------|----------------|----------------------|
+| 1       | 4.-5.      | pondělí | 14:00-15:00  | John Barker	   | 301        |  plno   |
+| 2       | 4.-5.      | pátek   | 13:00-14:00  | Filip	Djurisic | 301        |  plno   |
+| 3       | 4.-5.      | pondělí | 15:10-16:10  | John Barker	   | 301        |  volno  |
+| 4       | 6.-9.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | 301        |  plno   |
 {: .table .table-striped }
 
 Kurzy začínají v týdnu od 30. září 2024.
