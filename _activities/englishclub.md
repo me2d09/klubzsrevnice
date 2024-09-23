@@ -43,8 +43,7 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 |---------|------------|---------|--------------|----------------|----------------------|
 | 1       | 4.-5.      | pondělí | 14:00-15:00  | John Barker	   | 301        |  plno   |
 | 2       | 4.-5.      | pátek   | 13:00-14:00  | Filip	Djurisic | 301        |  plno   |
-| 3       | 4.-5.      | pondělí | 15:10-16:10  | John Barker	   | 301        |  volno  |
-| 4       | 6.-9.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | 301        |  plno   |
+| 3       | 6.-9.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | 301        |  plno   |
 {: .table .table-striped }
 
 Kurzy začínají v týdnu od 30. září 2024.
