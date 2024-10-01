@@ -19,13 +19,14 @@ Rodičovské kavárny jsou vzdělávací semináře určené pro rodiče, jejich
 
 5.3. 2025 - Jak podpořit výživu dětí pro správný vývoj mozku a jejich celkového zdraví (Katka Hanáková)
 
+
 Školní rok 2025/2026
 
 <!--vice-->
 
 #### Více informací
 
-Rodičovské kavárny se obvykle konají ve všední dny v podvečer ve školní jídelně. V budoucnu však plánujeme více využívat také prostory Dřeváku a Corsa. Abychom semináře zatraktivnili, snažíme se vytvořit prostředí připomínající kavárnu. Během večera udržujeme neformální atmosféru, nabízíme občerstvení, kávu a sladké pochutiny. Naším cílem je, aby kavárny nebyly jen místem pro sebevzdělávání, ale také příležitostí k příjemné společenské události. Na závěr semináře mají rodiče možnost sdílet své zkušenosti a lépe se vzájemně poznat.
+Rodičovské kavárny se obvykle konají ve všední dny v podvečer ve školní jídelně, nicméně plánujeme více využívat také prostory Dřeváku a Corsa. Abychom semináře zatraktivnili, snažíme se vytvořit prostředí připomínající kavárnu. Během večera udržujeme neformální atmosféru, nabízíme občerstvení a kávu. Naším cílem je, aby kavárny nebyly jen místem pro sebevzdělávání, ale také příležitostí k příjemné společenské události. Na závěr semináře mají rodiče možnost sdílet své zkušenosti a lépe se vzájemně poznat.
 
 Za dobu pořádání těchto vzdělávacích seminářů se nám povedlo přivést do Řevnic řadu atraktivních témat. Během semináře Digiděti Honzy Kršňáka jsme se více dozvěděli o vztahu dětí a moderních technologií. V rámci dalších večerů s  Janou Nečasovou a   Janem Kolouchem jsme se zabývali kyberšikanou a stále aktuálnějším využíváním AI ve vzdělávání našich dětí a v našem běžném životě. Již dvakrát jsme se dotkli tématu duševního zdraví našich dětí, poprvé díky Míše Kvasničkové, Nadě Kostkové a Saše Krebsové na naší vůbec první kavárně, která se uskutečnila v listopadu 2022 v Dřeváku. Teď naposledy to bylo v rámci workshopu, který pro nás připravila organizace Nevypusť Duši. Díky Anitě Michajlukové víme, jak vychovat sebevědomého a samostatného školáka, který se v životě neztratí. Bára Cíglerová nám představila tolik potřebné základy první pomoci. Dámy ze sdružení Magdalena nám pak ukázaly legální snadno dostupné drogy, které mohou, někdy i relativně zásadně, ohrozit naše děti. 
 
