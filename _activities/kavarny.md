@@ -11,9 +11,15 @@ Rodičovské kavárny představují vzdělávací semináře pro rodiče.  Jejic
 
 #### Nadcházející kavárny
 
+Školní rok 2024/2025
+
 22.10. 2024 - Jak číst s dětmi a dětem (Mgr. Květa Kruger)
 
 20.11. 2024 - Jak se učit a jak si zapamatovat i dvacetimístné číslo (Blanka Hálová)
+
+5.3. 2025 - Jak podpořit výživu dětí pro správný vývoj mozku a jejich celkového zdraví
+
+Školní rok 2025/2026
 
 <!--vice-->
 
