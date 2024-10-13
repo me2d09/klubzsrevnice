@@ -20,7 +20,6 @@ Rodičovské kavárny jsou vzdělávací semináře určené pro rodiče, jejich
 5.3. 2025 - Jak podpořit výživu dětí pro správný vývoj mozku a jejich celkového zdraví (Katka Hanáková)
 
 
-Školní rok 2025/2026
 
 <!--vice-->
 
