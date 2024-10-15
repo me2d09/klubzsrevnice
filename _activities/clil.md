@@ -2,6 +2,7 @@
 title: Výuka s anglickým pedagogem
 longtitle: CLIL aneb výuka s anglicky mluvícím pedagogem
 shorttitle: CLIL
+published: false
 images:
   - clil1.jpg
   - clil2.jpg

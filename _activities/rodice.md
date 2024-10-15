@@ -3,7 +3,7 @@ longtitle: Rodiče do školy
 subtitle: Setkání dětí s praxí
 title: Rodiče do školy
 shorttitle: Rodiče do školy
-      
+published: false   
 people:
   - lucie
 ---

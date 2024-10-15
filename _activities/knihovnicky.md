@@ -1,7 +1,7 @@
 ---
 title: Chodbové knihovničky
 longtitle: Chodbové knihovničky
-shorttitle: Chodbové knihovničky
+shorttitle: Knihovničky
 people:
   - hanka
 ---
