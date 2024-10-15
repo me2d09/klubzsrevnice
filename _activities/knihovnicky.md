@@ -27,24 +27,6 @@ A teď několik praktických pravidel k zapůjčení knihy:
 
 #### Seznam knížek pro rezervaci najdete na tomto odkazu:
 
-[Chodbové knihovničky](https://docs.google.com/spreadsheets/d/1SPAaFC__u6ZOz3shr32gCNuke6E9cou59ieNZFrEyvw/edit)
+##### [Chodbové knihovničky](https://docs.google.com/spreadsheets/d/1SPAaFC__u6ZOz3shr32gCNuke6E9cou59ieNZFrEyvw/edit)
 
 <!--vice-->
-
-#### Výběr ze seznamu
-
-
-| Název                                 | Autor                           |
-|---------------------------------------|---------------------------------|
-| Atom v kupce sena                     | Mike Barfield                   |
-| Pikunikku. Japonský piknik            | Monika Baudišová                |
-| Krajiny domova                        | Václav Cílek                    |
-| Klárka a 11 babiček                   | Olga Černá                      |
-| Domov pro Marťany                     | Martina Drijverová              |
-| Kočka v Zemi čísel                    | Ivar Ekeland                    |
-| Lumír včelaří                         | Aneta Františka Holasová        |
-| Proč chtěl ptakopysk do Solopisk      | Daniela Kalinová                |
-| Vynalezárium                          | Robin Král                      |
-| Zprávy z pelíšku                      | Daniela Krolupperová            |
-| knihy                                 | Roald Dahl                      |
-{: .table .table-striped }
