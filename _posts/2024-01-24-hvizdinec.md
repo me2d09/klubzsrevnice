@@ -3,7 +3,8 @@ layout: post   # to tu musí být
 title: Výlet na Hvíždinec  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
 image: /img/blog/hvizdinec.jpg  # jméno obrázku včetně adresáře, velikost 900x600
-
+category: vylety
+event-date: 2024-01-27 00:00
 ---
 Již tuto sobotu vás zveme na další společnou akci!
 
