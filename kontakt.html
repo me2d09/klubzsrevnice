@@ -14,7 +14,8 @@ title: Kontakt
                   <!-- contact-info-->
                   <h3 class="mb-2">Kontaktní informace</h3>
                   <p class="h7">a jak se stát členem</p>
-                  <p>Výše členského příspěvku pro školní rok {{ site.data.prispevky.rok }} činí {{ site.data.prispevky.vyse | markdownify }}.
+                  <p>Výše členského příspěvku pro školní rok {{ site.data.prispevky.rok }} činí 
+                     {{ site.data.prispevky.vyse | markdownify | remove: '<p>' | remove: '</p>' }}.
                   </p>
                   <h4 class="mt-5">Napište nám zprávu</h4>
                   <!-- Form Starts -->

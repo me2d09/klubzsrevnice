@@ -17,7 +17,8 @@ title: Jak nás podpořit?
            <div class="row">
               <div class="col-lg-6 ">
                <p>
-                  Pokud se rozhodnete stát členem klubu, zašlete členský příspěvek pro rok {{ site.data.prispevky.rok }} v min. výši {{ site.data.prispevky.vyse | markdownify }}  
+                  Pokud se rozhodnete stát členem klubu, zašlete členský příspěvek pro rok {{ site.data.prispevky.rok }} v min. výši 
+                  {{ site.data.prispevky.vyse | markdownify | remove: '<p>' | remove: '</p>' }}  
                   na transparentní účet klubu č.ú. <a href="https://ib.fio.cz/ib/transparent?a=2200861197">2200861197/2010</a> (Fio banka).
                   (do poznámky uveďte prosím "Členský příspěvek, jméno příjmení").</p>
                   <p><b><a href="{{ site.prihlaska }}">Přihlášku ke členství</a></b> vyplňte ideálně
