@@ -172,7 +172,8 @@ hidejumbo: true
          <!-- /section-heading -->
          <!-- blog carousel -->
          <div class="carousel-3items owl-carousel owl-theme mt-0">
-            {% for p in site.posts limit: 6 %}
+            {% assign past_posts = site.posts | where_exp: "post", "post.date < site.time" %}
+            {% for p in past_posts limit: 6 %}
                {% include blogbox.html p=p %}
             {% endfor %}
          </div>

@@ -13,6 +13,8 @@ permalink: /aktuality/:year/:title/
 plugins:
   - jekyll-feed
 
+future: true
+
 collections:
   people:
     output: true
