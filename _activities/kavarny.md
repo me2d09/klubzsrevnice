@@ -2,7 +2,7 @@
 longtitle: Rodičovské kavárny
 subtitle: Setkání dětí s praxí
 title: Rodičovské kavárny
-shorttitle: Kavárny
+shorttitle: Rodičovské kavárny
 news-category: kavarna
 people:
   - andrea
