@@ -5,7 +5,7 @@ title: Výlety
 shorttitle: Výlety
 news-category: vylety
 people:
-  - renata_s
+  - renata-s
 ---
 Máme rádi pohyb a tak jsme se rozhodli pořádat občasné výlety do okolí. Nejde jen o pohyb, ale je to i skvělá příležitost potkat se s kamarády, přáteli, poznat jiné rodiče a strávit smysluplně odpoledne či celý den. Výlety jsou určeny nejen rodičům, ale taky jejich dětem, kamarádům, známým. Prostě kdo bude mít čas a chuť se přidat. Ve skupince se to lépe táhne a děti to více baví. 
 
