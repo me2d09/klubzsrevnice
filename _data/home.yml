@@ -18,13 +18,10 @@ aktivita:
   podtitul: a plány do budoucna
   text: |
     Ve spolupráci s vedením školy a učiteli se už leccos povedlo. 
-    Třeba výuka s anglicky mluvícími učiteli (tzv. [CLIL](/aktivity/clil)), kroužky [robotiky](/aktivity/robotika),
-    [podpora dětí](/aktivity/podpora) ze sociálně slabších rodin
-    nebo burzy jarního a podzimního oblečení ve školní jídelně. Chtěli bychom ale také pomáhat při přípravě, 
-    organizování a financování různých akcí, jako jsou vánoční trhy, školní ples, školní akademie, případně 
-    vymyslet a zorganizovat další zábavné a kulturní akce pro děti a pro školu. Plánujeme tzv. rodičovské 
-    kavárny na různá výchovně - vzdělávací témata, jako například kybernetická bezpečnost, šikana, výchova 
-    s technologiemi a mnohá další podle zájmu. Svojí činností chceme přispět ke zkvalitnění školního prostředí, 
+    Třeba výuka s anglicky mluvícími učiteli (tzv. [CLIL](/aktivity/clil)), kroužky anglické konverzace a [robotiky](/aktivity/robotika),
+    [podpora dětí](/aktivity/podpora) ze sociálně slabších rodin. Pomáháme také při přípravě, 
+    organizování a financování různých akcí, jako jsou školní vánoční trhy. Každoročně nechybí náš stánek na školní akademii. Pro rodiče pořádáme výlety a tzv. rodičovské 
+    kavárny na různá výchovně - vzdělávací témata, jako například děti a technologie, šikana, zdravá výživa, čtenářská gramotnost a mnohá další podle zájmu. Pomohli jsme zrealizovat projekt chodbových knihovniček. Svojí činností chceme přispět ke zkvalitnění školního prostředí, 
     zpestření výuky a k rozšíření možností pro trávení volného času. Vítáme všechny náměty a komentáře lidí 
     se zájmem o školu, které budeme konzultovat s vedením ZŠ Řevnice.   
 
@@ -44,7 +41,7 @@ okruhy:
     icon: flaticon-classroom-1
 
   - nazev: Pomoc potřebným
-    text: Podpora dětí ze sociálně slabších rodin – platby za obědy, družinu, lyžák apod.
+    text: Podpora dětí ze sociálně slabších rodin – platby za družinu, školní výlet apod.
     icon: flaticon-maternity
 
   - nazev: Výlety
