@@ -50,7 +50,8 @@ hidelastbread: true
              <div class="widget-area notepad">
                 <h5 class="sidebar-header">Další aktuality</h5>
                 <div class="list-group">
-                   {% for p in site.posts limit: 4 %}
+                  {% assign past_posts = site.posts | where_exp: "post", "post.date < site.time" %}
+                   {% for p in past_posts limit: 4 %}
                    {% if p.url == page.url %}
                    {% continue %}
                    {% endif %}
