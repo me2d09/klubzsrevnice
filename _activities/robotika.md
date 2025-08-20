@@ -16,8 +16,8 @@ faq:
       Kroužky i dílna fungují od pondělí 22. 9. 2025.
   - nadpis: Co v kroužcích děláme?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
-  - nadpis: Jaká je cena kroužku?
-    text: Cena kroužku je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávxy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Luděk Novák, kroužek A. 
+  - nadpis: Jaké je kurzovné?
+    text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávxy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Luděk Novák, kroužek A. 
   - nadpis: Jak přihlásit dítě do kroužku?
     text: |
       Využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform)
