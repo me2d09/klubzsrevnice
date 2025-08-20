@@ -7,18 +7,13 @@ images:
   - robotika3.jpg
   - robotika4.jpg
 faq:
-  - nadpis: Pro jak staré děti je kroužek určen a kdy se koná?
+  - nadpis: Pro jak staré děti jsou kroužky určeny
     text: |
-      Kroužek je vhodný pro děti od 3. třídy, v roce 2025/26 otevřeme celkem 4 kroužky:
-        
-       - pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
-       - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
-       - pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
-       - programovací D, bude upřesněno, lektor Václav Brož
+      Kroužek je vhodný pro děti od 3. třídy, v roce 2025/26 otevřeme celkem 4 kroužky.
  
-      Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená je každé pondělí od 15:00 do 18:00 hod. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
+      Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
-      Kroužky i dílna fungují od pondělí 23. 9. 2024.
+      Kroužky i dílna fungují od pondělí 22. 9. 2025.
   - nadpis: Co v kroužcích děláme?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
   - nadpis: Kolik kroužek stojí?
