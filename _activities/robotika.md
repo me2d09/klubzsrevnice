@@ -52,10 +52,10 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v budově ve Školní ulici (90 minut). Detaily ohledně nového kroužku D (programování) budou zveřejněny v první polovině září. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
 
-| Skupina             | den     | čas          | lektor         | učebna     |         |
-|---------------------|---------|--------------|----------------|------------|---------|
-| A stavebnice        | pondělí | 15:30-17:00  | Milan Beníček  | ???        |         |
-| B robotika          | pondělí | 14:00-15:30  | Pavel Jisl     | ???        |         |
-| C elektronika       | pondělí | 15:30-17:00  | Petr Čermái    | ???        |         |
-| D programování      | ???     | ???          | Václav Brož    | ???        |         |
+| Skupina             | den       | čas          | lektor         | učebna     |         |
+|---------------------|-----------|--------------|----------------|------------|---------|
+| A stavebnice        | pondělí   | 15:30-17:00  | Milan Beníček  | upřesníme  |         |
+| B robotika          | pondělí   | 14:00-15:30  | Pavel Jisl     | upřesníme  |         |
+| C elektronika       | pondělí   | 15:30-17:00  | Petr Čermák    | upřesníme  |         |
+| D programování      | upřesníme | upřesníme    | Václav Brož    | upřesníme  |         |
 {: .table .table-striped }
