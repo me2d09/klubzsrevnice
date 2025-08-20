@@ -9,16 +9,17 @@ images:
 faq:
   - nadpis: Pro jak staré děti je kroužek určen a kdy se koná?
     text: |
-      Kroužek je vhodný pro děti od 3. třídy, v roce 2024/25 otevřeme celkem 3 kroužky:
+      Kroužek je vhodný pro děti od 3. třídy, v roce 2025/26 otevřeme celkem 4 kroužky:
         
        - pro začátečníky A, pondělí 15:30 - 17:00 hod., lektor Milan Beníček
        - pro mírně pokročilé B, pondělí 14:00 - 15:30 hod., lektor Pavel Jisl
        - pro pokročilé C, pondělí 15:30 - 17:00 hod., lektor Petr Čermák
+       - programovací D, bude upřesněno, lektor Václav Brož
  
       Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981 a otevřená je každé pondělí od 15:00 do 18:00 hod. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
       Kroužky i dílna fungují od pondělí 23. 9. 2024.
-  - nadpis: Jaké vybavení se na kroužcích využívá?
+  - nadpis: Co v kroužcích děláme?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
   - nadpis: Kolik kroužek stojí?
     text: Cena kroužku je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávxy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Luděk Novák, kroužek A. 
@@ -35,6 +36,7 @@ people:
   - vasek
   - zdenek
   - jitka
+# todo: venda
 ---
 V roce 2018 jsme ve spolupráci s GRAMOFONDEM, nadačním fondem GZ Media a ZŠ Řevnice začali pořádat technické kroužky pod názvem Robotika je hra. Děti se pod vedením zkušených lektorů z řad rodičů seznamují se základy fyziky, mechaniky, robotiky a programování. 
 
@@ -46,6 +48,14 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
-#### Časový rozpis kroužků v roce 2024/25
+#### Časový rozpis kroužků v roce 2025/26
 
-Ve školním roce 2024/25 budou probíhat kroužky Robotika je hra A, B, C v budově ve Školní ulici (90 minut). Pro děti z druhého stupně bude otevřena dílna D na házené nad dětským hřištěm. 
+Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v budově ve Školní ulici (90 minut). Detaily ohledně nového kroužku D (programování) budou zveřejněny v první polovině září. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
+
+| Skupina             | den     | čas          | lektor         | učebna     |         |
+|---------------------|---------|--------------|----------------|------------|---------|
+| A stavebnice        | pondělí | 15:30-17:00  | Milan Beníček  | ???        |         |
+| B robotika          | pondělí | 14:00-15:30  | Pavel Jisl     | ???        |         |
+| C elektronika       | pondělí | 15:30-17:00  | Petr Čermái    | ???        |         |
+| D programování      | ???     | ???          | Václav Brož    | ???        |         |
+{: .table .table-striped }
