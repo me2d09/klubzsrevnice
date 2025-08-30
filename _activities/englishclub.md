@@ -8,7 +8,7 @@ faq:
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-      Vyplňte přihlašovací formulář na [tomto odkazu](https://forms.gle/WnMQxHLCKUTicuNW6).
+      Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu (maximální počet dětí v kurzu je deset).  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
