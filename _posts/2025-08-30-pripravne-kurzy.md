@@ -17,7 +17,7 @@ Přihlášení je spuštěno bskrz system Webooker zde:
 https://www.dobrichovickydomek.cz/jak-se-prihlasit
 
 
-Kurzy se konají v budově druhého stupně ZŠ Řevnice. Kurzy pro dpro páté třídy v úterý od 14:00. Přihlašte se co nejdříve. Kurzy se budou konat při dostatečném počtu dětí. Zároveň je jejich kapacita omezena.  
+Kurzy se konají v budově druhého stupně ZŠ Řevnice. Kurzy pro páté třídy probíhají v úterý od 14:00. Přihlašte se co nejdříve. Kurzy se budou konat při dostatečném počtu dětí. Zároveň je jejich kapacita omezena.  
 Lektorkou kurzu bude stejně jako v loňském roce paní Libuše Stupavská.
 
 
