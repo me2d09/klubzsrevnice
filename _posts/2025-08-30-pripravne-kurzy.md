@@ -6,18 +6,26 @@ image: /img/blog/zkousky_gympl.jpg  # jméno obrázku včetně adresáře, velik
 
 ---
 V tomto školním roce plánujeme spolu s dobřichovickým DoDo domkem zorganizovat přípravné kurzy
-na přijímací zkoušky pro 5. ročníky
+na přijímací zkoušky CERMAT z českého jazyka a matematiky pro 5. ročníky 
 
 <!--vice-->
 
 
 Náplní kurzu je práce s CERMAT testy.
 
-Přihlášení je spuštěno bskrz system Webooker zde:
+Přihlášení je spuštěno skrz system Webooker zde:
 https://www.dobrichovickydomek.cz/jak-se-prihlasit
 
+Na každý z předmětů je nutné se registrovat samostatně:
 
-Kurzy se konají v budově druhého stupně ZŠ Řevnice. Kurzy pro páté třídy probíhají v úterý od 14:00. Přihlašte se co nejdříve. Kurzy se budou konat při dostatečném počtu dětí. Zároveň je jejich kapacita omezena.  
+
+https://dobrichovickydomek.webooker.eu/flutter/#/courses/semester/1456/course/28275/tab/course-info
+
+
+https://dobrichovickydomek.webooker.eu/flutter/#/courses/semester/1456/course/28276/tab/course-info
+
+
+Kurzy se konají v budově druhého stupně ZŠ Řevnice a probíhají v úterý od 14:00. Přihlašte se co nejdříve. Kurzy se budou konat při dostatečném počtu dětí. Zároveň je jejich kapacita omezena.  
 Lektorkou kurzu bude stejně jako v loňském roce paní Libuše Stupavská.
 
 
