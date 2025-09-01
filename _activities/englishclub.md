@@ -42,7 +42,7 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 | Skupina | třídy      | den     | čas          | lektor         | učebna     |         |
 |---------|------------|---------|--------------|----------------|----------------------|
 | 1       | 4.-5.      | pondělí | 13:00-14:00  | John Barker	   | n/a        |  volno  |
-| 2       | 4.-5.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | n/a        |  volno  |
+| 2       | 4.-5.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | n/a        |  plno   |
 | 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | n/a        |  volno  |
 {: .table .table-striped }
 
