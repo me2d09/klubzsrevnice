@@ -43,14 +43,27 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
+
 #### Časový rozpis kroužků v roce 2025/26
 
 Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v budově ve Školní ulici (90 minut). Detaily ohledně nového kroužku D (programování) budou zveřejněny v první polovině září. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
 
-| Skupina             | den       | čas          | lektor         | učebna     |         |
-|---------------------|-----------|--------------|----------------|------------|---------|
-| A stavebnice        | pondělí   | 15:30-17:00  | Milan Beníček  | upřesníme  |         |
-| B robotika          | pondělí   | 14:00-15:30  | Pavel Jisl     | upřesníme  |         |
-| C elektronika       | pondělí   | 15:30-17:00  | Petr Čermák    | upřesníme  |         |
-| D programování      | čtvrtek   | 16:00-17:00  | Václav Brož    | upřesníme  |         |
+| Skupina             | den       | čas          | lektor                        | učebna     |           |
+|---------------------|-----------|--------------|-------------------------------|------------|-----------|
+| A stavebnice        | pondělí   | 15:30-17:00  | [Milan Beníček](/lide/milan)  | upřesníme  |           |
+| B robotika          | pondělí   | 14:00-15:30  | [Pavel Jisl](/lide/pavel)     | upřesníme  | obsazeno  |
+| C elektronika       | pondělí   | 15:30-17:00  | [Petr Čermák](/lide/petr)     | upřesníme  |           |
+| D programování      | čtvrtek   | 16:00-17:00  | [Václav Brož](/lide/vasek-b)  | upřesníme  |           |
 {: .table .table-striped }
+
+#### Koncept
+
+S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení a senzory (B) a ve třetím roce pronikneme do elektroniky a logiky (C). Na závěr kroužků, když jsou účastníci většinou v šesté třídě, rozvineme čisté programování (D).
+
+Po vychození 4 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
+
+Do budoucna plánujeme dílnu otevřít dospělým zájemcům, již bez dohledu mentora.
+
+[Detailní koncept ke stažebí](/docs/robotika-v-kostce.pdf)
+
+[VÍCE INFO O DÍLNĚ](https://dilna.klubzsrevnice.cz/)
