@@ -30,7 +30,7 @@ people:
   - filipk
   - vasek
   - zdenek
-  - vasek_b
+  - vasekb
   - jitka
 ---
 V roce 2018 jsme ve spolupráci s GRAMOFONDEM, nadačním fondem GZ Media a ZŠ Řevnice začali pořádat technické kroužky pod názvem Robotika je hra. Děti se pod vedením zkušených lektorů z řad rodičů seznamují se základy fyziky, mechaniky, robotiky a programování. 
@@ -43,17 +43,17 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
-
 #### Časový rozpis kroužků v roce 2025/26
 
 Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v budově ve Školní ulici (90 minut). Detaily ohledně nového kroužku D (programování) budou zveřejněny v první polovině září. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
 
-| Skupina             | den       | čas          | lektor                        | učebna     |           |
-|---------------------|-----------|--------------|-------------------------------|------------|-----------|
-| A stavebnice        | pondělí   | 15:30-17:00  | [Milan Beníček](/lide/milan)  | upřesníme  |           |
-| B robotika          | pondělí   | 14:00-15:30  | [Pavel Jisl](/lide/pavel)     | upřesníme  | obsazeno  |
-| C elektronika       | pondělí   | 15:30-17:00  | [Petr Čermák](/lide/petr)     | upřesníme  |           |
-| D programování      | čtvrtek   | 16:00-17:00  | [Václav Brož](/lide/vasek-b)  | upřesníme  |           |
+| Skupina        | den     | čas         | lektor                       | učebna    |          |
+|----------------|---------|-------------|------------------------------|-----------|----------|
+| A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | upřesníme |          |
+| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | upřesníme | obsazeno |
+| C elektronika  | pondělí | 15:30-17:00 | [Petr Čermák](/lide/petr)    | upřesníme |          |
+| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | upřesníme |          |
+
 {: .table .table-striped }
 
 #### Koncept
