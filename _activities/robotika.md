@@ -51,8 +51,8 @@ Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v 
 |----------------|---------|-------------|------------------------------|-----------|----------|
 | A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | upřesníme |          |
 | B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | upřesníme | obsazeno |
-| C elektronika  | pondělí | 15:30-17:00 | [Petr Čermák](/lide/petr)    | upřesníme |          |
-| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | upřesníme |          |
+| C elektronika  | pondělí | 15:30-17:00 | [Petr Čermák](/lide/petr)    | upřesníme | obsazeno |
+| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | upřesníme | obsazeno |
 {: .table .table-striped }
 
 #### Koncept
