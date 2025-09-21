@@ -10,7 +10,7 @@ faq:
     text: |
       Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
-      Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu (maximální počet dětí v kurzu je deset).  
+      Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
 
   - nadpis: Kdy kurzy začínají?
@@ -43,7 +43,7 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 |---------|------------|---------|--------------|----------------|----------------------|
 | 1       | 4.-5.      | pondělí | 13:00-14:00  | John Barker	   | n/a        |  plno   |
 | 2       | 4.-5.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | n/a        |  plno   |
-| 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | n/a        |  volno  |
+| 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | n/a        |  plno   |
 {: .table .table-striped }
 
 Kurz s Jacobem začíná 25. září, kurzy s Johnem začínají 29. září 2025. 
