@@ -41,9 +41,9 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 
 | Skupina | třídy      | den     | čas          | lektor         | učebna     |         |
 |---------|------------|---------|--------------|----------------|----------------------|
-| 1       | 4.-5.      | pondělí | 13:00-14:00  | John Barker	   | n/a        |  plno   |
-| 2       | 4.-5.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | n/a        |  plno   |
-| 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | n/a        |  plno   |
+| 1       | 4.-5.      | pondělí | 13:00-14:00  | John Barker	   | 303        |  plno   |
+| 2       | 4.-5.      | čtvrtek | 14:00-15:00  | Jacob Sullivan | 102        |  plno   |
+| 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | 303        |  plno   |
 {: .table .table-striped }
 
 Kurz s Jacobem začíná 25. září, kurzy s Johnem začínají 29. září 2025. 
