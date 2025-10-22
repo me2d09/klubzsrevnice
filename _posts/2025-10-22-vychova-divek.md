@@ -2,7 +2,7 @@
 layout: post   # to tu musí být
 title: Jak vychovávat holky a nezbláznit se  # nadpis, max cca 30 znaků (vyzkoušet)
 autor: andrea  # křestní jméno autora, lze nechat prázdné
-image: /img/blog/vychova_divek.jpg  # jméno obrázku včetně adresáře, velikost 900x600
+image: /img/blog/divek.jpg  # jméno obrázku včetně adresáře, velikost 900x600
 category: kavarna
 event-date: 2025-11-26 18:00
 ---
