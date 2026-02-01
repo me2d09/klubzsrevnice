@@ -26,7 +26,7 @@ soukromých nadací jako reakce na situaci rodin ukrajinských uprchlíků. V ro
 záštitu manželka prezidenta ČR paní Eva Pavlová.
 
 
-**Aktuálně lze žádat o příspěvek na 2. pol. šk. r. 2024/2025.**
+**Aktuálně lze žádat o příspěvek na 2. pol. šk. r. 2025/2026.**
 **Max. výše podpory je 1.500,- Kč / dítě.**
 Zbývající část kurzovného hradí rodič (tedy např. E.C. pro nečleny stojí 2.500,- Kč, tzn. o úhradu
 části kurzovného ve výši 1.500,- Kč lze žádat prostřednictvím platformy Darujeme kroužky, rodič
