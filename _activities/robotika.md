@@ -51,12 +51,12 @@ Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra A, B, C v bud
 |----------------|---------|-------------|------------------------------|-----------|----------|
 | A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |          |
 | B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |          |
-| C wibecoding   | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |          |
+| C vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |          |
 {: .table .table-striped }
 
 #### Koncept
 
-S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení, senzory a programování v micro-bitu (B) a ve třetím roce se zaměříme na programování pomocí umělé inteligence (wibecoding, kroužek C).
+S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení, senzory a programování v micro-bitu (B) a ve třetím roce se zaměříme na programování pomocí umělé inteligence (vibe coding, kroužek C).
 
 Po vychození 3 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
 
