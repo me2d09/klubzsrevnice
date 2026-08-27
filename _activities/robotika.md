@@ -9,15 +9,15 @@ images:
 faq:
   - nadpis: Pro jak staré děti jsou kroužky určeny
     text: |
-      Kroužek je vhodný pro děti od 3. třídy, v roce 2025/26 otevřeme celkem 4 kroužky.
+      Kroužek je vhodný pro děti od 3. třídy, v roce 2026/27 otevřeme celkem 3 kroužky.
  
       Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
-      Kroužky i dílna fungují od pondělí 22. 9. 2025.
+      Kroužky i dílna fungují od pondělí 21. 9. 2026.
   - nadpis: Co v kroužcích děláme?
-    text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky hrajeme Minecraft Education.
+    text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky sestavujeme elektrické obvody.
   - nadpis: Jaké je kurzovné?
-    text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávxy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Luděk Novák, kroužek A. 
+    text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Zdena Nováková, kroužek A. 
   - nadpis: Jak přihlásit dítě do kroužku?
     text: |
       Využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform)
@@ -43,23 +43,22 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 <!--vice-->
 
-#### Časový rozpis kroužků v roce 2025/26
+#### Časový rozpis kroužků v roce 2026/27
 
-Ve školním roce 2025/26 budou probíhat kroužky Robotika je hra A, B, C, D v budově ve Školní ulici (90 minut). Detaily ohledně nového kroužku D (programování) budou zveřejněny v první polovině září. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
+Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra A, B, C v budově ve Školní ulici (90 minut, resp. 60 minut). Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
 
 | Skupina        | den     | čas         | lektor                       | učebna    |          |
 |----------------|---------|-------------|------------------------------|-----------|----------|
-| A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | 102       |          |
-| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | 101       | obsazeno |
-| C elektronika  | pondělí | 15:30-17:00 | [Petr Čermák](/lide/petr)    | 101       | obsazeno |
-| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        | obsazeno |
+| A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |          |
+| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |          |
+| C wibecoding   | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |          |
 {: .table .table-striped }
 
 #### Koncept
 
-S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení a senzory (B) a ve třetím roce pronikneme do elektroniky a logiky (C). Na závěr kroužků, když jsou účastníci většinou v šesté třídě, rozvineme čisté programování (D).
+S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení, senzory a programování v micro-bitu (B) a ve třetím roce se zaměříme na programování pomocí umělé inteligence (wibecoding, kroužek C).
 
-Po vychození 4 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
+Po vychození 3 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
 
 Do budoucna plánujeme dílnu otevřít dospělým zájemcům, již bez dohledu mentora.
 
