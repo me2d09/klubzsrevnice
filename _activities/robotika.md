@@ -9,7 +9,7 @@ images:
 faq:
   - nadpis: Pro jak staré děti jsou kroužky určeny
     text: |
-      Kroužek je vhodný pro děti od 3. třídy, v roce 2026/27 otevřeme celkem 3 kroužky.
+      Kroužek je vhodný pro děti od 3. třídy, v roce 2026/27 plánujeme otevřít až 4 kroužky.
  
       Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
@@ -20,7 +20,7 @@ faq:
     text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Zdena Nováková, kroužek A. 
   - nadpis: Jak přihlásit dítě do kroužku?
     text: |
-      Využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform)
+      Pro přihlášení do kroužků B, C a D využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform). Pro kroužek A aktuálně nemáme lektora. Přihlašování do něj otevřeme pouze tehdy, pokud se nám podaří lektora najít; v takovém případě kroužek také otevřeme.
 
       Zájem o kroužky robotiky je velký a máme bohužel omezenou kapacitu, kterou se snažíme navýšit. Odeslání přihlášky neznamená, že jsme mohli Vaše dítě do kroužku přijmout. Potvrzením o přijetí je zařazení čísla rodiče do WhatsApp informační skupiny ke kroužku, kde sdílíme organizační informace a informace k platbě. Děti, které by se do kroužku nedostaly, evidujeme jako náhradníky a v případě uvolnění místa se ozveme.   
 people:
@@ -45,20 +45,21 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 #### Časový rozpis kroužků v roce 2026/27
 
-Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra A, B, C v budově ve Školní ulici (90 minut, resp. 60 minut). Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm. 
+Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra B, C a D v budově ve Školní ulici (90 minut, resp. 60 minut). Pokud se nám podaří najít lektora, otevřeme také kroužek A. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm.
 
-| Skupina        | den     | čas         | lektor                       | učebna    |          |
-|----------------|---------|-------------|------------------------------|-----------|----------|
-| A stavebnice   | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |          |
-| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |          |
-| C vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |          |
+| Skupina        | den     | čas         | lektor                       | učebna    |                  |
+|----------------|---------|-------------|------------------------------|-----------|------------------|
+| A stavebnice   | pondělí | 15:30-17:00 | hledáme lektora              | ???       | zatím neotevřen  |
+| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |                  |
+| C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |                  |
+| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                  |
 {: .table .table-striped }
 
 #### Koncept
 
-S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení, senzory a programování v micro-bitu (B) a ve třetím roce se zaměříme na programování pomocí umělé inteligence (vibe coding, kroužek C).
+S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení a senzory (B) a ve třetím roce pronikneme do elektroniky a logiky (C). Ve čtvrtém roce se zaměříme na programování pomocí umělé inteligence (vibe coding, kroužek D).
 
-Po vychození 3 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
+Po vychození 4 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
 
 Do budoucna plánujeme dílnu otevřít dospělým zájemcům, již bez dohledu mentora.
 
