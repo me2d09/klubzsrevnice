@@ -62,6 +62,4 @@ Po vychození 3 let kroužků Robotiky už je to na dětech: v dílně si navrhu
 
 Do budoucna plánujeme dílnu otevřít dospělým zájemcům, již bez dohledu mentora.
 
-[Detailní koncept ke stažení](/docs/robotika-v-kostce.pdf){: .btn .btn-secondary .btn-block .btn-sm}
-
 [Stránky dílny](https://dilna.klubzsrevnice.cz/){: .btn .btn-primary .btn-block .btn-sm}
