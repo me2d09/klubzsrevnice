@@ -16,6 +16,8 @@ faq:
       Kroužky i dílna fungují od pondělí 21. 9. 2026.
   - nadpis: Co v kroužcích děláme?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky sestavujeme elektrické obvody.
+  - nadpis: Co je vibe coding?
+    text: Vibe coding je způsob tvorby programů, při kterém člověk běžným jazykem popíše umělé inteligenci, co má program dělat. Umělá inteligence navrhne kód, který děti zkoušejí, upravují a postupně vylepšují. Učí se tak formulovat zadání, ověřovat výsledky a rozumět tomu, jak program funguje.
   - nadpis: Jaké je kurzovné?
     text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Zdena Nováková, kroužek A. 
   - nadpis: Jak přihlásit dítě do kroužku?
@@ -52,12 +54,12 @@ Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra B, C a D v bu
 | A stavebnice   | pondělí | 15:30-17:00 | hledáme lektora              | ???       | zatím neotevřen  |
 | B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |                  |
 | C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |                  |
-| D programování | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                  |
+| D vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                  |
 {: .table .table-striped }
 
 #### Koncept
 
-S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení a senzory (B) a ve třetím roce pronikneme do elektroniky a logiky (C). Ve čtvrtém roce se zaměříme na programování pomocí umělé inteligence (vibe coding, kroužek D).
+S Robotikou začínáme u mechaniky (A), která je určena pro děti z minimálně 3. třídy základní školy. V dalším roce přidáme řízení a senzory (B) a ve třetím roce pronikneme do elektroniky a logiky (C). Ve čtvrtém roce se zaměříme na vibe coding, tedy tvorbu programů s pomocí umělé inteligence (D).
 
 Po vychození 4 let kroužků Robotiky už je to na dětech: v dílně si navrhují a tvoří vlastní projekty, jen s dohledem a podle domluvených pravidel.
 
