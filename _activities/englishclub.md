@@ -8,7 +8,6 @@ faq:
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-      Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme. 
       Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
@@ -34,11 +33,13 @@ teachers:  # Kdo jsou naši lektoři?
 people:
   - pavla
 ---
-English Club jsou konverzační kurzy angličtiny s rodilými mluvčími Jacobem a Johnem.  Mnohé děti z řevnické základky je už znají, protože se s nimi setkávají při vyučování v hodinách v rámci programu CLIL.
+Pozor! Podrobnosti ke školnímu roku 2026/2027 teprve ladíme, ozveme se, až budeme mít víc informací. Zatím tedy přihlášky přes formulář na našich webových stránkách nepřijímáme.
+
+English Club jsou konverzační kurzy angličtiny s rodilými mluvčími.  Mnohé děti z řevnické základky je už znají, protože se s nimi setkávají při vyučování v hodinách v rámci programu CLIL.
 
 A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si s nimi procvičovat angličtinu i v odpoledních konverzačních kroužcích. 
 
-#### Jak kurzy nabízíme?
+#### Jak kurzy nabízíme pro školní rok 25/26?
 
 | Skupina | třídy      | den     | čas          | lektor         | učebna     |         |
 |---------|------------|---------|--------------|----------------|----------------------|
@@ -47,5 +48,5 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 | 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | 303        |  plno   |
 {: .table .table-striped }
 
-Kurzy začnou na přelomu září a října. 
+Kurzy začínají na přelomu září a října. 
  
