@@ -4,14 +4,12 @@ subtitle: konverzace s rodilými mluvčími
 title: English Club
 shorttitle: English Club
 faq:
-  - nadpis: Kde se kurzy konají? 
+  - nadpis: Kde se kurzy konají?
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-     Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme.
-
-Sledujte naše webové stránky a FB školy i náš, brzy se dozvíte, více podrobností. 
-    Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
+      Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme. 
+      Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
@@ -49,5 +47,5 @@ A protože si děti všechny rodilé mluvčí velmi oblíbily, mají možnost si
 | 3       | 6.-9.      | pondělí | 14:10-15:10  | John Barker	   | 303        |  plno   |
 {: .table .table-striped }
 
-Kurz s Jacobem začíná 25. září, kurzy s Johnem začínají 29. září 2025. 
+Kurzy začnou na přelomu září a října. 
  
