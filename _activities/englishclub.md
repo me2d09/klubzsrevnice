@@ -8,14 +8,14 @@ faq:
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-      Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
+     Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme. Sledujte naše webové stránky a FB školy i náš, brzy se dozvíte, více podrobností. Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
 
   - nadpis: Kdy kurzy začínají?
     text: |
-      Kurzy začínají od 25.9. 2025
+      Kurzy začínají v září 2025
   - nadpis: Kolik kurzy stojí? 
     text: |
       Cena kurzu je 2 200 Kč (15 lekcí) pro členy Klubu rodičů a přátel školy ZŠ Řevnice, 2 500 Kč pro nečleny.
