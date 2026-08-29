@@ -8,7 +8,10 @@ faq:
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-     Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme. Sledujte naše webové stránky a FB školy i náš, brzy se dozvíte, více podrobností. Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
+     Informace ke kurzům na školní rok 2026/2027 teprve zjišťujeme.
+
+Sledujte naše webové stránky a FB školy i náš, brzy se dozvíte, více podrobností. 
+    Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSdvSpPqEIKO2GwQPTbIAmWXdJflvTHePAPvgb1KY97rNl5zxA/viewform?usp=header).
 
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
