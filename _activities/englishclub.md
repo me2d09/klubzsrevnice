@@ -33,7 +33,8 @@ teachers:  # Kdo jsou naši lektoři?
 people:
   - pavla
 ---
-Pozor! Podrobnosti ke školnímu roku 2026/2027 teprve ladíme, ozveme se, až budeme mít víc informací. Zatím tedy přihlášky přes formulář na našich webových stránkách nepřijímáme.
+Rozvrh English Clubu pro školní rok 2026/2027 teprve připravujeme, ozveme se, až budeme mít víc informací. Zatím tedy přihlášky přes formulář na našich webových stránkách nepřijímáme.
+
 
 English Club jsou konverzační kurzy angličtiny s rodilými mluvčími.  Mnohé děti z řevnické základky je už znají, protože se s nimi setkávají při vyučování v hodinách v rámci programu CLIL.
 
