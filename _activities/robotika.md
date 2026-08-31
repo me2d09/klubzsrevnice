@@ -13,16 +13,16 @@ faq:
  
       Pro děti od 6. třídy je možné navštěvovat dílnu, kde se s podporou mentorů pracuje na vlastních projektech. Dílna funguje v prostorách areálu Národní házené v Řevnicích, Sportovní 981. Bližší info o dílně na webu [dilna.klubzsrevnice.cz](https://dilna.klubzsrevnice.cz/)
       
-      Kroužky i dílna fungují od pondělí 21. 9. 2026.
+      **Kroužky i dílna začínají v pondělí 21. 9. 2026.**
   - nadpis: Co v kroužcích děláme?
     text: Stavíme primárně ze stavebnic Fischertechnik, programujeme micro:bity a občas taky sestavujeme elektrické obvody.
   - nadpis: Co je vibe coding?
     text: Vibe coding je způsob tvorby programů, při kterém člověk běžným jazykem popíše umělé inteligenci, co má program dělat. Umělá inteligence navrhne kód, který děti zkoušejí, upravují a postupně vylepšují. Učí se tak formulovat zadání, ověřovat výsledky a rozumět tomu, jak program funguje.
   - nadpis: Jaké je kurzovné?
     text: Kurzovné je 2 000 Kč na půl roku (pro členy Klubu ZŠ Řevnice, pro nečleny je cena 2 500 Kč). Získané finance využíváme na nákup vybavení a další náklady spojené s kroužkem. Kurzovné se platí na účet Klubu rodičů 2200861197 / 2010 s VS 1, do zprávy pro příjemce jméno a příjmení dítěte a druh kroužku. Např. Zdena Nováková, kroužek A. 
-  - nadpis: Jak přihlásit dítě do kroužku?
+  - nadpis: Jak přihlásit dítě do kroužku nebo dílny?
     text: |
-      Pro přihlášení do kroužků B, C a D využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform). Pro kroužek A aktuálně nemáme lektora. Přihlašování do něj otevřeme pouze tehdy, pokud se nám podaří lektora najít; v takovém případě kroužek také otevřeme.
+      Pro přihlášení do kroužků B, C a D i do dílny využijte [přihlašovací formulář](https://docs.google.com/forms/d/e/1FAIpQLSel7HqKDY0iXwToyVkGUTtWGA9ypfR1fLS_1trIKctgpyCjUA/viewform). Pro kroužek A aktuálně nemáme lektora. Přihlašování do něj otevřeme pouze tehdy, pokud se nám podaří lektora najít; v takovém případě kroužek také otevřeme.
 
       Zájem o kroužky robotiky je velký a máme bohužel omezenou kapacitu, kterou se snažíme navýšit. Odeslání přihlášky neznamená, že jsme mohli Vaše dítě do kroužku přijmout. Potvrzením o přijetí je zařazení čísla rodiče do WhatsApp informační skupiny ke kroužku, kde sdílíme organizační informace a informace k platbě. Děti, které by se do kroužku nedostaly, evidujeme jako náhradníky a v případě uvolnění místa se ozveme.   
 people:
@@ -49,12 +49,13 @@ Stávající lektoři jsou tělem i duší technici a programátoři. Kroužky v
 
 Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra B, C a D v budově ve Školní ulici (90 minut, resp. 60 minut). Pokud se nám podaří najít lektora, otevřeme také kroužek A. Pro děti z druhého stupně bude opět otevřena dílna na házené nad dětským hřištěm.
 
-| Skupina        | den     | čas         | lektor                       | učebna    |                  |
-|----------------|---------|-------------|------------------------------|-----------|------------------|
-| A stavebnice   | pondělí | 15:30-17:00 | hledáme lektora              | ???       | zatím neotevřen  |
-| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |                  |
-| C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |                  |
-| D vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                  |
+| Skupina        | den     | čas         | lektor                       | učebna    | přihlášení / info |
+|----------------|---------|-------------|------------------------------|-----------|-------------------|
+| A stavebnice   | pondělí | 15:30-17:00 | hledáme lektora              | ???       | zatím neotevřen   |
+| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |                   |
+| C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |                   |
+| D vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                   |
+| Dílna          | pondělí | 15:00-18:00 | mentoři                      | Sportovní 981 |  · [více info](https://dilna.klubzsrevnice.cz/) |
 {: .table .table-striped }
 
 #### Koncept
