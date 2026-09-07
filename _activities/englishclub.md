@@ -8,7 +8,7 @@ faq:
     text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
   - nadpis: Jak se přihlásit?
     text: |
-      Vyplňte přihlašovací formulář na [tomto odkazu]([https://docs.google.com/forms/d/e/1FAIpQLSfFIxehHHMHFuaNyEO5r6CjQOihXpPG1kHYMClbi_geVfPH4Q/viewform?usp=dialog]).
+      Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSfFIxehHHMHFuaNyEO5r6CjQOihXpPG1kHYMClbi_geVfPH4Q/viewform?usp=dialog).
     
       Co nejdříve se vám ozveme s informací, zda jste byli zařazeni do kurzu.  
       Pokud od nás nedostanete e-mail, zkontrolujte si prosím svoji spamovou schránku. 
@@ -39,10 +39,10 @@ A protože si děti lektora velmi oblíbily, mají možnost si s ním procvičov
 
 #### Jak kurzy nabízíme pro školní rok 26/27?
 
-| Skupina | věk        | den     | čas          | lektor         | učebna     |         |
-|---------|------------|---------|--------------|----------------|----------------------|
-| 1       | 9-11 let   | pondělí | 13:10-14:10  | John Barker	   | n/a        |  volno  |
-| 2       | 10-12 let  | pondělí | 14:20-15:20  | John Barker    | n/a        |  volno  |
+| Skupina | věk         | den      | čas           | lektor         | učebna     |         |
+|---------|-------------|----------|---------------|----------------|----------------------|
+| 1       | 9-11 let    | pondělí  | 13:10-14:10   | John Barker	  | n/a        |  volno  |
+| 2       | 10-12 let   | pondělí  | 14:20-15:20   | John Barker    | n/a        |  volno  |
 
 {: .table .table-striped }
 
