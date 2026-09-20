@@ -5,7 +5,7 @@ title: English Club
 shorttitle: English Club
 faq:
   - nadpis: Kde se kurzy konají?
-    text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna bude upřesněna
+    text: Všechny kurzy se konají v budově ZŠ Řevnice, Školní 600, učebna 301
   - nadpis: Jak se přihlásit?
     text: |
       Vyplňte přihlašovací formulář na [tomto odkazu](https://docs.google.com/forms/d/e/1FAIpQLSfFIxehHHMHFuaNyEO5r6CjQOihXpPG1kHYMClbi_geVfPH4Q/viewform?usp=dialog).
@@ -41,8 +41,8 @@ A protože si děti lektora velmi oblíbily, mají možnost si s ním procvičov
 
 | Skupina | věk         | den      | čas           | lektor         | učebna     |         |
 |---------|-------------|----------|---------------|----------------|----------------------|
-| 1       | 9-11 let    | pondělí  | 13:10-14:10   | John Barker	  | n/a        |  volno  |
-| 2       | 10-12 let   | pondělí  | 14:20-15:20   | John Barker    | n/a        |  volno  |
+| 1       | 9-11 let    | pondělí  | 13:10-14:10   | John Barker	  | 301        |  volno  |
+| 2       | 10-12 let   | pondělí  | 14:20-15:20   | John Barker    | 301        |  plno   |
 
 {: .table .table-striped }
 
