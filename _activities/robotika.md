@@ -53,11 +53,11 @@ Ve školním roce 2026/27 budou probíhat kroužky Robotika je hra A, B, C a D v
 
 | Skupina        | den     | čas         | lektor                       | učebna    | přihlášení / info |
 |----------------|---------|-------------|------------------------------|-----------|-------------------|
-| A stavebnice   | pondělí | 16:00-17:30 | [Jan Šváb](/lide/jan)        | ???       | otevře se jen při 5 a více přihlášených |
-| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | ???       |                   |
-| C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | ???       |                   |
-| D vibe coding  | čtvrtek | 16:00-17:00 | [Václav Brož](/lide/vasekb)  | D3        |                   |
-| Dílna          | pondělí | 15:00-18:00 | [Petr Čermák](/lide/petr), Albert Šulva | Sportovní 981 |  · [více info](https://dilna.klubzsrevnice.cz/) |
+| A stavebnice   | pondělí | 16:00-17:30 | [Jan Šváb](/lide/jan)        | 102       | volná místa |
+| B robotika     | pondělí | 14:00-15:30 | [Pavel Jisl](/lide/pavel)    | 101       | plno              |
+| C elektronika  | pondělí | 15:30-17:00 | [Milan Beníček](/lide/milan) | 101       | volná místa       |
+| D vibe coding  | čtvrtek | 15:30-16:30 | [Václav Brož](/lide/vasekb)  | D3        | volná místa       |
+| Dílna          | pondělí | 15:00-18:00 | [Petr Čermák](/lide/petr), Albert Šulva | Sportovní 981 | poslední místa · [více info](https://dilna.klubzsrevnice.cz/) |
 {: .table .table-striped }
 
 #### Koncept
